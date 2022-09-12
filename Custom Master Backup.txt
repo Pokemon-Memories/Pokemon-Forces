@@ -1,0 +1,5772 @@
+=== [gen6ubers] Mewtwo's Debut (Start of Origin Era) ===
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Naive Nature  
+- Expanding Force  
+- Aura Sphere  
+- Aurora Beam  
+- Brutal Swing  
+
+Dialga @ Chople Berry  
+Ability: Regenerator  
+EVs: 252 SpA / 252 SpD / 4 Spe  
+Mild Nature  
+IVs: 0 Atk  
+- Dragon Pulse  
+- Flash Cannon  
+- Thunder  
+- Shell Smash  
+
+Vaporeon (F) @ Leftovers  
+Ability: utilitylock  
+EVs: 252 HP / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dragon Breath  
+- Stealth Rock  
+- Yawn  
+- Withdraw  
+
+Groudon @ Full Incense  
+Ability: Drought  
+EVs: 252 HP / 4 SpD / 252 Spe  
+Jolly Nature  
+- Precipice Blades  
+- Flare Blitz  
+- Swords Dance  
+- Dragon Dance  
+
+Marshadow @ Expert Belt  
+Ability: Merciless  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Spectral Thief  
+- shatterfist  
+- Ice Punch  
+- Low Sweep  
+
+Palkia @ Sea Incense  
+Ability: dracolate  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- royalsubmersion  
+- Boomburst  
+- Surf  
+- Dragon Breath  
+
+
+=== [gen6ubers] Infernape's Attack ===
+
+Infernape (M) @ Life Orb  
+Ability: Protean  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Flare Blitz  
+- Earthquake  
+- Gunk Shot  
+- Flip Turn  
+
+Kyogre @ Choice Scarf  
+Ability: Drizzle  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Water Spout  
+- Origin Pulse  
+- Thunder  
+- Ice Beam  
+
+Kyurem-Black @ Snowball  
+Ability: Teravolt  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Fusion Bolt  
+- glacialstrike  
+- Ice Shard  
+- Slush Switch  
+
+Maractus (M) @ Utility Umbrella  
+Ability: watertrap  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Calm Nature  
+- Snap Trap  
+- Slush Switch  
+- Tail Glow  
+- Recover  
+
+Meloetta @ Protector  
+Ability: ensemble  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Hyper Voice  
+- Storm Throw  
+- Double Slap  
+- Slush Switch  
+
+Registeel @ Sweet Apple  
+Ability: doubledown  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- regiball  
+- Flamethrower  
+- Stealth Rock  
+- U-turn  
+
+
+=== [gen6ubers] Groudon's Domain ===
+
+Groudon @ Full Incense  
+Ability: Drought  
+EVs: 252 HP / 4 SpD / 252 Spe  
+Jolly Nature  
+- Precipice Blades  
+- Flare Blitz  
+- Swords Dance  
+- Dragon Dance  
+
+Calyrex-Shadow @ Ring Target  
+Ability: Power Spot  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psyshock  
+- Astral Barrage  
+- Moonblast  
+- Trick  
+
+Zekrom @ Light Ball  
+Ability: Teravolt  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Bolt Strike  
+- royalrampage  
+- flyingdeluge  
+- Dragon Dance  
+
+Yveltal @ White Herb  
+Ability: Dark Aura  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dark Pulse  
+- Oblivion Wing  
+- Roost  
+- Uproar  
+
+Palkia @ Sea Incense  
+Ability: dracolate  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- royalsubmersion  
+- Boomburst  
+- Thunder Wave  
+- Flip Turn  
+
+Vaporeon (F) @ Leftovers  
+Ability: utilitylock  
+EVs: 252 HP / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dragon Breath  
+- Stealth Rock  
+- Yawn  
+- Withdraw  
+
+
+=== [gen6ubers] Victini's Path to Victory ===
+
+Victini @ Shiny Stone  
+Ability: machspeed  
+EVs: 212 Atk / 224 SpA / 72 Spe  
+Naive Nature  
+- V-create  
+- Focus Blast  
+- Bolt Strike  
+- Glaciate  
+
+Genesect @ Sweet Apple  
+Ability: doublelayer  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Naive Nature  
+- Blizzard  
+- Gunk Shot  
+- Echoed Voice  
+- Shell Smash  
+
+Eternatus @ Toxic Orb  
+Ability: Pressure  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dynamax Cannon  
+- Magma Storm  
+- Sludge Wave  
+- Autotomize  
+
+Palkia @ Sea Incense  
+Ability: dracolate  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- royalsubmersion  
+- Boomburst  
+- Thunder Wave  
+- Flip Turn  
+
+Vaporeon (F) @ Leftovers  
+Ability: utilitylock  
+EVs: 252 HP / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dragon Breath  
+- Stealth Rock  
+- Yawn  
+- Withdraw  
+
+Xerneas @ Power Herb  
+Ability: Fairy Aura  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Psyshock  
+- Aurora Beam  
+- Geomancy  
+
+
+=== [gen6ubers] Phione's Aquapolis ===
+
+Phione @ Sea Incense  
+Ability: Drizzle  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Surf  
+- Grass Knot  
+- Aurora Beam  
+- Nasty Plot  
+
+Keldeo-Resolute @ Wave Incense  
+Ability: perfectsword  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Sacred Sword  
+- Secret Sword  
+- shatterspark  
+- Aqua Jet  
+
+Kyogre @ Choice Scarf  
+Ability: Drizzle  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Water Spout  
+- Origin Pulse  
+- Thunder  
+- Ice Beam  
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Naive Nature  
+- Expanding Force  
+- Flash  
+- Electro Ball  
+- Brutal Swing  
+
+Volcanion @ Rose Incense  
+Ability: Drizzle  
+EVs: 252 HP / 252 Def / 4 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Roar  
+- Stealth Rock  
+- Dragon Breath  
+- Withdraw  
+
+Maractus (M) @ Utility Umbrella  
+Ability: watertrap  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Calm Nature  
+- Snap Trap  
+- Slush Switch  
+- Tail Glow  
+- Recover  
+
+
+=== [gen6ubers] Lunala's Moonlight Serenade ===
+
+Lunala @ Protector  
+Ability: Shadow Shield  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Moongeist Beam  
+- Magma Storm  
+- Ice Beam  
+- Roost  
+
+Infernape (M) @ Life Orb  
+Ability: Protean  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Flare Blitz  
+- Earthquake  
+- Gunk Shot  
+- Flip Turn  
+
+Registeel @ Sweet Apple  
+Ability: doubledown  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- regiball  
+- Flamethrower  
+- Stealth Rock  
+- U-turn  
+
+Palkia @ Sea Incense  
+Ability: dracolate  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- royalsubmersion  
+- Boomburst  
+- Thunder Wave  
+- Flip Turn  
+
+Porygon-Z @ Dubious Disc  
+Ability: Mold Breaker  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- enigmacharge  
+- mysteryspeed  
+- Avalanche  
+- Waterfall  
+
+Tornadus @ Wave Incense  
+Ability: tempest  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Water Sport  
+- Aeroblast  
+- Sludge Bomb  
+- Slush Switch  
+
+
+=== [gen6ubers] Mewtwo's Classic Team ===
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Naive Nature  
+- Expanding Force  
+- Aura Sphere  
+- Aurora Beam  
+- Brutal Swing  
+
+Yveltal @ White Herb  
+Ability: Dark Aura  
+EVs: 4 HP / 252 Def / 252 Spe  
+Timid Nature  
+- Dark Pulse  
+- Oblivion Wing  
+- Sucker Punch  
+- Uproar  
+
+Kyurem-Black @ Snowball  
+Ability: dragonpower  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- celestialstrike  
+- glacialstrike  
+- Ice Shard  
+- Slush Switch  
+
+Necrozma-Dusk-Mane @ Metal Coat  
+Ability: Prism Armor  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Sunsteel Strike  
+- Earthquake  
+- Shadow Claw  
+- Dragon Dance  
+
+Kyogre @ Sea Incense  
+Ability: Drizzle  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Water Spout  
+- Origin Pulse  
+- Thunder  
+- Ice Beam  
+
+Palkia @ Sea Incense  
+Ability: dracolate  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- royalsubmersion  
+- Boomburst  
+- Surf  
+- Flip Turn  
+
+
+=== [gen6ubers] Lucario's Entrance ===
+
+Lucario (M) @ Lucarionite  
+Ability: speedtouch  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Close Combat  
+- Low Sweep  
+- Bullet Punch  
+- Swords Dance  
+
+Calyrex-Shadow @ Protector  
+Ability: Power Spot  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psyshock  
+- Astral Barrage  
+- Moonblast  
+- Nasty Plot  
+
+Zekrom @ Light Ball  
+Ability: Teravolt  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Bolt Strike  
+- royalrampage  
+- flyingdeluge  
+- Dragon Dance  
+
+Swampert (M) @ White Herb  
+Ability: Water Absorb  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Careful Nature  
+- Earthquake  
+- Waterfall  
+- Stealth Rock  
+- Withdraw  
+
+Meloetta @ Protector  
+Ability: Serene Grace  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Echoed Voice  
+- Frost Breath  
+- Screech  
+- Recover  
+
+Landorus-Therian @ Assault Vest  
+Ability: pacify  
+EVs: 4 HP / 252 SpD / 252 Spe  
+Timid Nature  
+- Earth Power  
+- Aeroblast  
+- expressheal  
+- U-turn  
+
+
+=== [gen6ubers] Arceus' Judgment ===
+
+Arceus-Ground @ Earth Plate  
+Ability: Multitype  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Judgment  
+- glacialstrike  
+- Stealth Rock  
+- Recover  
+
+Lugia @ Utility Umbrella  
+Ability: aquaforce  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Calm Nature  
+- aquasoul  
+- Amnesia  
+- Toxic  
+- Roost  
+
+Meloetta @ Throat Spray  
+Ability: Serene Grace  
+Shiny: Yes  
+EVs: 252 HP / 4 SpA / 252 Spe  
+Timid Nature  
+- Hyper Voice  
+- Echoed Voice  
+- Screech  
+- Slush Switch  
+
+Groudon @ Full Incense  
+Ability: Drought  
+EVs: 252 HP / 4 SpD / 252 Spe  
+Jolly Nature  
+- Precipice Blades  
+- Flare Blitz  
+- Swords Dance  
+- Dragon Dance  
+
+Lucario (M) @ Lucarionite  
+Ability: speedtouch  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Close Combat  
+- Low Sweep  
+- Ice Punch  
+- Swords Dance  
+
+Kyogre @ Choice Scarf  
+Ability: Drizzle  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Water Spout  
+- Origin Pulse  
+- Thunder  
+- Ice Beam  
+
+
+=== [gen6ubers] Sprouting and Blooming (Team #10: End of Origin Era) ===
+
+Bellsprout (M) @ Gold Bottle Cap  
+Ability: Chlorophyll  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Power Whip  
+- Gunk Shot  
+- Bullet Seed  
+- Close Combat  
+
+Heatran (M) @ Air Balloon  
+Ability: Drought  
+EVs: 252 HP / 252 Def / 4 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Fire Spin  
+- Stealth Rock  
+- Withdraw  
+- Recover  
+
+Dialga @ Chople Berry  
+Ability: Regenerator  
+EVs: 252 SpA / 252 SpD / 4 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dragon Pulse  
+- Fire Blast  
+- Aura Sphere  
+- Shell Smash  
+
+Flareon (M) @ Choice Scarf  
+Ability: Reckless  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Eruption  
+- Overheat  
+- Shadow Ball  
+- Body Slam  
+
+Pheromosa @ Gold Bottle Cap  
+Ability: Beast Boost  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- shatterfist  
+- Low Sweep  
+- Assurance  
+- U-turn  
+
+Sunflora (M) @ Flower Sweet  
+Ability: weatherguard  
+Shiny: Yes  
+EVs: 252 HP / 252 Def / 4 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Giga Drain  
+- Earth Power  
+- Parting Shot  
+- Recover  
+
+
+=== [gen6ubers] Lilligant's Elegance (Team #11: Start of Lando-T Era) ===
+
+Lilligant @ Flower Sweet  
+Ability: flowershield  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Apple Acid  
+- Bubble  
+- Teeter Dance  
+- Recover  
+
+Marshadow @ Expert Belt  
+Ability: Merciless  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Spectral Thief  
+- shatterfist  
+- Ice Punch  
+- Low Sweep  
+
+Registeel @ Sweet Apple  
+Ability: doubledown  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- regiball  
+- Flamethrower  
+- Stealth Rock  
+- U-turn  
+
+Infernape (M) @ Life Orb  
+Ability: Protean  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Flare Blitz  
+- Earthquake  
+- Gunk Shot  
+- Flip Turn  
+
+Greninja-Ash @ Life Orb  
+Ability: speedpledge  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Dark Pulse  
+- Blizzard  
+- Slush Switch  
+
+Landorus-Therian @ Assault Vest  
+Ability: pacify  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+- Earth Power  
+- Aeroblast  
+- expressheal  
+- U-turn  
+
+
+=== [gen6ubers] Decidueye's Decisions ===
+
+Decidueye (M) @ Choice Scarf  
+Ability: Reckless  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Energy Ball  
+- Spirit Shackle  
+- Shadow Sneak  
+- Dual Wingbeat  
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Naive Nature  
+- Expanding Force  
+- Aura Sphere  
+- Aurora Beam  
+- Brutal Swing  
+
+Landorus-Therian @ Assault Vest  
+Ability: pacify  
+EVs: 4 HP / 252 Def / 252 SpA  
+Modest Nature  
+- Earth Power  
+- Aeroblast  
+- expressheal  
+- U-turn  
+
+Palkia @ Sea Incense  
+Ability: dracolate  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- royalsubmersion  
+- Boomburst  
+- Thunder Wave  
+- Flip Turn  
+
+Genesect @ Sweet Apple  
+Ability: doublelayer  
+EVs: 4 HP / 152 Atk / 100 SpA / 252 Spe  
+Naive Nature  
+- Blizzard  
+- Gunk Shot  
+- Echoed Voice  
+- Shell Smash  
+
+Arceus-Fairy @ Pixie Plate  
+Ability: Multitype  
+EVs: 252 HP / 4 SpA / 252 Spe  
+Timid Nature  
+- Judgment  
+- royalturbulence  
+- Stealth Rock  
+- Recover  
+
+
+=== [gen6ubers] Calyrex's Kingdom ===
+
+Calyrex-Shadow @ Water Stone  
+Ability: Power Spot  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psyshock  
+- Astral Barrage  
+- Hyper Beam  
+- Parting Shot  
+
+Dialga @ Chople Berry  
+Ability: Regenerator  
+EVs: 40 HP / 252 SpA / 180 SpD / 36 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dragon Pulse  
+- Flash Cannon  
+- Aura Sphere  
+- Shell Smash  
+
+Meloetta @ Protector  
+Ability: Serene Grace  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hyper Voice  
+- Frost Breath  
+- Echoed Voice  
+- Screech  
+
+Lilligant @ Flower Sweet  
+Ability: flowershield  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Apple Acid  
+- Bubble  
+- Teeter Dance  
+- Recover  
+
+Infernape (M) @ Poison Gem  
+Ability: Protean  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Flare Blitz  
+- Earthquake  
+- Gunk Shot  
+- Flip Turn  
+
+Landorus-Therian @ Assault Vest  
+Ability: pacify  
+EVs: 4 HP / 252 Def / 252 Spe  
+Timid Nature  
+- Earth Power  
+- Aeroblast  
+- expressheal  
+- U-turn  
+
+
+=== [gen6ubers] Zekrom's Initiative ===
+
+Zekrom @ Light Ball  
+Ability: Teravolt  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Bolt Strike  
+- royalrampage  
+- flyingdeluge  
+- Dragon Dance  
+
+Kyogre @ Choice Scarf  
+Ability: Drizzle  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Water Spout  
+- Origin Pulse  
+- Thunder  
+- Ice Beam  
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Naive Nature  
+- Expanding Force  
+- Aura Sphere  
+- Aurora Beam  
+- Brutal Swing  
+
+Lilligant @ Flower Sweet  
+Ability: flowershield  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Apple Acid  
+- Bubble  
+- Teeter Dance  
+- Recover  
+
+Landorus-Therian @ Assault Vest  
+Ability: pacify  
+EVs: 4 HP / 252 Def / 252 Spe  
+Timid Nature  
+- Earth Power  
+- Aeroblast  
+- expressheal  
+- U-turn  
+
+Dialga @ Weakness Policy  
+Ability: Regenerator  
+EVs: 252 SpA / 252 SpD / 4 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Dragon Pulse  
+- Aura Sphere  
+- Flash Cannon  
+- Shell Smash  
+
+
+=== [gen6ubers] Rayquaza breaks the Firmament ===
+
+Rayquaza @ Life Orb  
+Ability: dragonheart  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- royalturbulence  
+- dragonlunge  
+- Triple Axel  
+- Dragon Dance  
+
+Registeel @ Sweet Apple  
+Ability: doubledown  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- regiball  
+- Flamethrower  
+- Stealth Rock  
+- U-turn  
+
+Meloetta @ Protector  
+Ability: Serene Grace  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hyper Voice  
+- Frost Breath  
+- Echoed Voice  
+- Screech  
+
+Genesect @ Sweet Apple  
+Ability: doublelayer  
+EVs: 4 HP / 152 Atk / 100 SpA / 252 Spe  
+Naive Nature  
+- Blizzard  
+- Gunk Shot  
+- Echoed Voice  
+- Shell Smash  
+
+Palkia @ Sea Incense  
+Ability: dracolate  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- royalsubmersion  
+- Boomburst  
+- Thunder Wave  
+- Flip Turn  
+
+Landorus-Therian @ Assault Vest  
+Ability: pacify  
+EVs: 4 HP / 252 Def / 252 Spe  
+Timid Nature  
+- Earth Power  
+- Aeroblast  
+- expressheal  
+- U-turn  
+
+
+=== [gen6ubers] Arceus' Omnipotence ===
+
+Arceus-Fairy @ Pixie Plate  
+Ability: Multitype  
+EVs: 4 HP / 252 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Flamethrower  
+- Calm Mind  
+- Recover  
+
+Golurk @ Cell Battery  
+Ability: Iron Fist  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- bladesofenlightenment  
+- pillarsofenlightenment  
+- Ice Punch  
+- Agility  
+
+Mew @ Choice Scarf  
+Ability: Protean  
+Shiny: Yes  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- royalpunishment  
+- royalinversion  
+- Slush Switch  
+- Trick  
+
+Landorus-Therian @ Assault Vest  
+Ability: pacify  
+EVs: 4 HP / 252 Def / 252 Spe  
+Timid Nature  
+- Earth Power  
+- Aeroblast  
+- expressheal  
+- U-turn  
+
+Cryogonal @ Snowball  
+Ability: Multiscale  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Aurora Beam  
+- Sheer Cold  
+- Frost Breath  
+- Slush Switch  
+
+Dialga @ Utility Umbrella  
+Ability: Regenerator  
+EVs: 252 SpA / 252 SpD / 4 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Dragon Pulse  
+- Aura Sphere  
+- Flash Cannon  
+- Shell Smash  
+
+
+=== [gen6ubers] Charizard's Recklessness ===
+
+Charizard-Mega-X (M) @ Charizardite X  
+Ability: Reckless  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+IVs: 0 Atk  
+- Blue Flare  
+- Draco Meteor  
+- Ancient Power  
+- Dragon Dance  
+
+Calyrex-Shadow @ Ice Stone  
+Ability: Power Spot  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psyshock  
+- Astral Barrage  
+- Hyper Beam  
+- Parting Shot  
+
+Sableye (M) @ Sablenite  
+Ability: pacify  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Careful Nature  
+- Fake Out  
+- Foul Play  
+- Body Press  
+- Protect  
+
+Shaymin @ Flower Sweet  
+Ability: Analytic  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Calm Nature  
+- royalforestation  
+- Earth Power  
+- Stealth Rock  
+- Synthesis  
+
+Infernape (M) @ Life Orb  
+Ability: Protean  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Stone Edge  
+- Earthquake  
+- Gunk Shot  
+- Flip Turn  
+
+Xerneas @ Power Herb  
+Ability: Fairy Aura  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Psyshock  
+- Aurora Beam  
+- Geomancy  
+
+
+=== [gen6ubers] Reshiram's Truth ===
+
+Reshiram @ Flame Orb  
+Ability: Turboblaze  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Blue Flare  
+- Clanging Scales  
+- Icy Wind  
+- Double Team  
+
+Eternatus @ Black Sludge  
+Ability: Pressure  
+EVs: 252 HP / 4 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dynamax Cannon  
+- Sludge Bomb  
+- Magma Storm  
+- Autotomize  
+
+Decidueye (M) @ Choice Scarf  
+Ability: Reckless  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Energy Ball  
+- Spirit Shackle  
+- Shadow Sneak  
+- Dual Wingbeat  
+
+Landorus-Therian @ Assault Vest  
+Ability: pacify  
+EVs: 4 HP / 252 Def / 252 Spe  
+Timid Nature  
+- Earth Power  
+- Aeroblast  
+- expressheal  
+- U-turn  
+
+Arceus-Fairy @ Pixie Plate  
+Ability: Multitype  
+EVs: 252 HP / 4 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Calm Mind  
+- Stealth Rock  
+- Recover  
+
+Palkia @ Sea Incense  
+Ability: dracolate  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- royalsubmersion  
+- Boomburst  
+- Thunder Wave  
+- Flip Turn  
+
+
+=== [gen6ubers] Phione's Dream ===
+
+Phione @ Sea Incense  
+Ability: Drizzle  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Surf  
+- Focus Blast  
+- Aurora Beam  
+- Nasty Plot  
+
+Kyogre @ Choice Scarf  
+Ability: Drizzle  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Water Spout  
+- Origin Pulse  
+- Thunder  
+- Ice Beam  
+
+Lilligant @ Flower Sweet  
+Ability: flowershield  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Apple Acid  
+- Bubble  
+- Teeter Dance  
+- Recover  
+
+Landorus-Therian @ Assault Vest  
+Ability: pacify  
+EVs: 4 HP / 252 Def / 252 Spe  
+Timid Nature  
+- Earth Power  
+- Aeroblast  
+- expressheal  
+- U-turn  
+
+Groudon @ Full Incense  
+Ability: Drought  
+EVs: 252 HP / 4 SpD / 252 Spe  
+Jolly Nature  
+- Precipice Blades  
+- Flare Blitz  
+- Swords Dance  
+- Dragon Dance  
+
+Vaporeon (F) @ Leftovers  
+Ability: utilitylock  
+EVs: 252 HP / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dragon Breath  
+- Stealth Rock  
+- Yawn  
+- Withdraw  
+
+
+=== [gen6ubers] Zekrom's Hidden Power ===
+
+Zekrom @ Light Ball  
+Ability: Teravolt  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Bolt Strike  
+- royalrampage  
+- flyingdeluge  
+- Dragon Dance  
+
+Meloetta @ Protector  
+Ability: Serene Grace  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hyper Voice  
+- Frost Breath  
+- Echoed Voice  
+- Screech  
+
+Landorus-Therian @ Assault Vest  
+Ability: pacify  
+EVs: 4 HP / 252 Def / 252 Spe  
+Timid Nature  
+- Earth Power  
+- Aeroblast  
+- expressheal  
+- U-turn  
+
+Lugia @ Utility Umbrella  
+Ability: aquaforce  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Calm Nature  
+- aquasoul  
+- Amnesia  
+- Toxic  
+- Roost  
+
+Infernape (M) @ Life Orb  
+Ability: Protean  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Flare Blitz  
+- Earthquake  
+- Gunk Shot  
+- Flip Turn  
+
+Arceus-Poison @ Toxic Plate  
+Ability: Multitype  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Judgment  
+- glacialstrike  
+- Stealth Rock  
+- Recover  
+
+
+=== [gen6ubers] Eternatus' Eternity ===
+
+Eternatus @ Snowball  
+Ability: spacepower  
+EVs: 252 HP / 4 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dynamax Cannon  
+- Sludge Bomb  
+- Icy Wind  
+- Recover  
+
+Palkia @ Rose Incense  
+Ability: dracolate  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- royalsubmersion  
+- Boomburst  
+- Surf  
+- Dragon Breath  
+
+Phione @ Sea Incense  
+Ability: Drizzle  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Surf  
+- Focus Blast  
+- Aurora Beam  
+- Nasty Plot  
+
+Xerneas @ Power Herb  
+Ability: Fairy Aura  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Psyshock  
+- Aurora Beam  
+- Geomancy  
+
+Landorus-Therian @ Assault Vest  
+Ability: pacify  
+EVs: 4 HP / 252 Def / 252 Spe  
+Timid Nature  
+- Earth Power  
+- Aeroblast  
+- expressheal  
+- U-turn  
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Naive Nature  
+- Expanding Force  
+- Aura Sphere  
+- Aurora Beam  
+- Brutal Swing  
+
+
+=== [gen6ubers] Gallade's Assault ===
+
+Gallade @ Galladite  
+Ability: Steadfast  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Close Combat  
+- frigidblast  
+- Low Sweep  
+- Slush Switch  
+
+Xerneas @ Power Herb  
+Ability: Fairy Aura  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Psyshock  
+- Aurora Beam  
+- Geomancy  
+
+Landorus-Therian @ Assault Vest  
+Ability: pacify  
+EVs: 4 HP / 252 Def / 252 Spe  
+Timid Nature  
+- Earth Power  
+- Aeroblast  
+- expressheal  
+- U-turn  
+
+Lilligant @ Flower Sweet  
+Ability: flowershield  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Apple Acid  
+- Bubble  
+- Teeter Dance  
+- Recover  
+
+Meloetta @ Protector  
+Ability: Serene Grace  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hyper Voice  
+- Frost Breath  
+- Echoed Voice  
+- Screech  
+
+Calyrex-Shadow @ Ring Target  
+Ability: Power Spot  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psyshock  
+- Astral Barrage  
+- Nasty Plot  
+- Trick  
+
+
+=== [gen6ubers] Keldeo's Deluge ===
+
+Keldeo-Resolute @ Life Orb  
+Ability: perfectsword  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Sacred Sword  
+- Secret Sword  
+- Aqua Jet  
+- Flip Turn  
+
+Cryogonal @ Snowball  
+Ability: Multiscale  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Aurora Beam  
+- Sheer Cold  
+- Frost Breath  
+- Slush Switch  
+
+Dialga @ Protector  
+Ability: Regenerator  
+EVs: 252 HP / 252 SpA / 4 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dragon Pulse  
+- Fire Blast  
+- Aura Sphere  
+- Shell Smash  
+
+Landorus-Therian @ Assault Vest  
+Ability: pacify  
+EVs: 4 HP / 252 Def / 252 Spe  
+Timid Nature  
+- Earth Power  
+- Aeroblast  
+- expressheal  
+- U-turn  
+
+Palkia @ Sea Incense  
+Ability: dracolate  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- royalsubmersion  
+- Boomburst  
+- Thunder Wave  
+- Flip Turn  
+
+Genesect @ Sweet Apple  
+Ability: doublelayer  
+EVs: 4 HP / 152 Atk / 100 SpA / 252 Spe  
+Naive Nature  
+- Blizzard  
+- Gunk Shot  
+- Echoed Voice  
+- Shell Smash  
+
+
+=== [gen6ubers] Kyogre and Groudon As One ===
+
+Kyogre @ Choice Scarf  
+Ability: Drizzle  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Water Spout  
+- Origin Pulse  
+- Thunder  
+- Ice Beam  
+
+Greninja-Ash @ Life Orb  
+Ability: speedpledge  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Dark Pulse  
+- Blizzard  
+- Slush Switch  
+
+Kyurem-Black @ Utility Umbrella  
+Ability: dragonpower  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Searing Shot  
+- glacialstrike  
+- Ice Shard  
+- Slush Switch  
+
+Landorus-Therian @ White Herb  
+Ability: pacify  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Calm Nature  
+- Earth Power  
+- Stealth Rock  
+- expressheal  
+- U-turn  
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Naive Nature  
+- Expanding Force  
+- Aura Sphere  
+- Aurora Beam  
+- Brutal Swing  
+
+Groudon @ Full Incense  
+Ability: Drought  
+EVs: 252 HP / 4 SpD / 252 Spe  
+Jolly Nature  
+- Precipice Blades  
+- Flare Blitz  
+- Swords Dance  
+- Dragon Dance  
+
+
+=== [gen6ubers] Rapidash's Momentum ===
+
+Rapidash (M) @ Flame Orb  
+Ability: blazingheat  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- blazingvelocity  
+- shattersand  
+- Wild Charge  
+- Flame Charge  
+
+Kyurem-Black @ Utility Umbrella  
+Ability: dragonpower  
+Shiny: Yes  
+EVs: 252 HP / 252 Spe  
+Jolly Nature  
+- Searing Shot  
+- glacialstrike  
+- Roost  
+- Slush Switch  
+
+Landorus-Therian @ Assault Vest  
+Ability: pacify  
+EVs: 4 HP / 252 Def / 252 Spe  
+Timid Nature  
+- Earth Power  
+- Aeroblast  
+- expressheal  
+- U-turn  
+
+Arceus-Fairy @ Pixie Plate  
+Ability: Multitype  
+EVs: 4 HP / 252 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Flamethrower  
+- Calm Mind  
+- Recover  
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Naive Nature  
+- Expanding Force  
+- Aura Sphere  
+- Aurora Beam  
+- Brutal Swing  
+
+Dialga @ Protector  
+Ability: Regenerator  
+EVs: 252 SpA / 252 SpD / 4 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dragon Pulse  
+- Flash Cannon  
+- Stealth Rock  
+- Shell Smash  
+
+
+=== [gen6ubers] Mewtwo's Strikes Back ===
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+Shiny: Yes  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Naive Nature  
+- Expanding Force  
+- Aura Sphere  
+- Aurora Beam  
+- Brutal Swing  
+
+Arceus-Fairy @ Pixie Plate  
+Ability: Multitype  
+EVs: 4 HP / 252 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Flamethrower  
+- Calm Mind  
+- Recover  
+
+Landorus-Therian @ Assault Vest  
+Ability: pacify  
+EVs: 4 HP / 252 Def / 252 Spe  
+Timid Nature  
+- Earth Power  
+- Aeroblast  
+- expressheal  
+- U-turn  
+
+Genesect @ Sweet Apple  
+Ability: doublelayer  
+EVs: 4 HP / 152 Atk / 100 SpA / 252 Spe  
+Naive Nature  
+- Blizzard  
+- Gunk Shot  
+- Echoed Voice  
+- Shell Smash  
+
+Lilligant @ Flower Sweet  
+Ability: flowershield  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Apple Acid  
+- Bubble  
+- Teeter Dance  
+- Recover  
+
+Registeel @ Sweet Apple  
+Ability: doubledown  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- regiball  
+- Flamethrower  
+- Stealth Rock  
+- U-turn  
+
+
+=== [gen6ubers] Eternatus' Awakening ===
+
+Eternatus @ Flame Orb  
+Ability: spacepower  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Venoshock  
+- Magma Storm  
+- Blizzard  
+- Autotomize  
+
+Calyrex-Ice @ Snowball  
+Ability: Ice Scales  
+EVs: 156 HP / 232 Atk / 120 Spe  
+Adamant Nature  
+- Glacial Lance  
+- Close Combat  
+- Swords Dance  
+- Agility  
+
+Registeel @ Sweet Apple  
+Ability: doubledown  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- regiball  
+- Flamethrower  
+- Stealth Rock  
+- U-turn  
+
+Arceus-Fairy @ Pixie Plate  
+Ability: Multitype  
+EVs: 4 HP / 252 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Flamethrower  
+- Calm Mind  
+- Recover  
+
+Kyurem-Black @ Utility Umbrella  
+Ability: dragonpower  
+Shiny: Yes  
+EVs: 252 HP / 4 Atk / 252 Def  
+Impish Nature  
+- glacialstrike  
+- Fusion Bolt  
+- Roost  
+- Slush Switch  
+
+Greninja-Ash @ Life Orb  
+Ability: speedpledge  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Dark Pulse  
+- Blizzard  
+- Slush Switch  
+
+
+=== [gen6ubers] Empoleon's Empire ===
+
+Empoleon @ Metal Coat  
+Ability: Merciless  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- shattershot  
+- shatterfist  
+- Avalanche  
+- Agility  
+
+Lilligant @ Flower Sweet  
+Ability: flowershield  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Apple Acid  
+- Bubble  
+- Teeter Dance  
+- Recover  
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Naive Nature  
+- Expanding Force  
+- Aura Sphere  
+- Aurora Beam  
+- Brutal Swing  
+
+Registeel @ Sweet Apple  
+Ability: doubledown  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- regiball  
+- Flamethrower  
+- Stealth Rock  
+- U-turn  
+
+Greninja-Ash @ Life Orb  
+Ability: speedpledge  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Dark Pulse  
+- Blizzard  
+- Slush Switch  
+
+Landorus-Therian @ Assault Vest  
+Ability: pacify  
+EVs: 4 HP / 252 Def / 252 Spe  
+Timid Nature  
+- Earth Power  
+- Aeroblast  
+- expressheal  
+- U-turn  
+
+
+=== [gen6ubers] Meloetta's Melody ===
+
+Meloetta @ Protector  
+Ability: Serene Grace  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hyper Voice  
+- Frost Breath  
+- Screech  
+- Recover  
+
+Infernape (M) @ Toxic Orb  
+Ability: Protean  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Flare Blitz  
+- Earthquake  
+- Gunk Shot  
+- Flip Turn  
+
+Groudon @ Full Incense  
+Ability: Drought  
+EVs: 252 HP / 4 SpD / 252 Spe  
+Jolly Nature  
+- Precipice Blades  
+- Flare Blitz  
+- Swords Dance  
+- Dragon Dance  
+
+Arceus-Fairy @ Pixie Plate  
+Ability: Multitype  
+EVs: 4 HP / 252 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Flamethrower  
+- Calm Mind  
+- Recover  
+
+Garchomp (M) @ Garchompite  
+Ability: Sand Stream  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Stomping Tantrum  
+- Breaking Swipe  
+- Iron Head  
+- Dragon Dance  
+
+Lilligant @ Flower Sweet  
+Ability: flowershield  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Apple Acid  
+- Bubble  
+- Teeter Dance  
+- Recover  
+
+
+=== [gen6ubers] Dialga's Resurgence ===
+
+Dialga @ Protector  
+Ability: Regenerator  
+EVs: 252 SpA / 252 SpD / 4 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dragon Pulse  
+- Flash Cannon  
+- Fire Blast  
+- Shell Smash  
+
+Registeel @ Sweet Apple  
+Ability: doubledown  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- regiball  
+- Flamethrower  
+- Stealth Rock  
+- U-turn  
+
+Keldeo-Resolute @ Life Orb  
+Ability: perfectsword  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Sacred Sword  
+- Secret Sword  
+- Aqua Jet  
+- Flip Turn  
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Naive Nature  
+- Expanding Force  
+- Aura Sphere  
+- Aurora Beam  
+- Brutal Swing  
+
+Palkia @ Sea Incense  
+Ability: dracolate  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- royalsubmersion  
+- Boomburst  
+- Surf  
+- Dragon Breath  
+
+Landorus-Therian @ Assault Vest  
+Ability: pacify  
+EVs: 4 HP / 252 Def / 252 Spe  
+Timid Nature  
+- Earth Power  
+- Aeroblast  
+- expressheal  
+- U-turn  
+
+
+=== [gen6ubers] Anti-Metas ===
+
+Necrozma-Dawn-Wings @ Protector  
+Ability: Prism Armor  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Moongeist Beam  
+- Prismatic Laser  
+- Dark Pulse  
+- Autotomize  
+
+Zacian-Crowned @ Rusted Sword  
+Ability: Intrepid Sword  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Meteor Mash  
+- Twinkle Tackle  
+- Close Combat  
+- Ice Fang  
+
+Manaphy @ Rose Incense  
+Ability: Drizzle  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Surf  
+- Icy Wind  
+- Happy Hour  
+- Protect  
+
+Cobalion @ Metal Coat  
+Ability: ironwill  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Careful Nature  
+- Sacred Sword  
+- Close Combat  
+- Stealth Rock  
+- U-turn  
+
+Deoxys-Attack @ Life Orb  
+Ability: Antipathy  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Ice Beam  
+- Focus Blast  
+- Magma Storm  
+
+Rotom-Frost @ Snowball  
+Ability: Prankster  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Blizzard  
+- Electro Ball  
+- Slush Switch  
+- Trick  
+
+
+=== [gen6ubers] Mewtwo: Awakened ===
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Naive Nature  
+- Expanding Force  
+- Aura Sphere  
+- Poltergeist  
+- Poison Jab  
+
+Arceus-Fairy @ Pixie Plate  
+Ability: Multitype  
+EVs: 4 HP / 252 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Flamethrower  
+- Calm Mind  
+- Recover  
+
+Landorus-Therian @ Assault Vest  
+Ability: pacify  
+EVs: 4 HP / 252 Def / 252 Spe  
+Timid Nature  
+- Earth Power  
+- Aeroblast  
+- expressheal  
+- U-turn  
+
+Lilligant @ Flower Sweet  
+Ability: flowershield  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Apple Acid  
+- Bubble  
+- Teeter Dance  
+- Recover  
+
+Porygon-Z @ Dubious Disc  
+Ability: Mold Breaker  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- enigmacharge  
+- mysteryspeed  
+- Earthquake  
+- Parabolic Charge  
+
+Dialga @ Chople Berry  
+Ability: Regenerator  
+EVs: 252 SpA / 252 SpD / 4 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dragon Pulse  
+- Aura Sphere  
+- Thunder  
+- Shell Smash  
+
+
+=== [gen6ubers] Mewtwo's Revelation ===
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Naive Nature  
+- Expanding Force  
+- Aurora Beam  
+- Low Sweep  
+- Poltergeist  
+
+Skarmory (M) @ White Herb  
+Ability: Unaware  
+Shiny: Yes  
+EVs: 252 HP / 252 Def / 4 Spe  
+Impish Nature  
+- Whirlwind  
+- Stealth Rock  
+- Roost  
+- U-turn  
+
+Milotic (M) @ Leftovers  
+Ability: Ice Scales  
+Shiny: Yes  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Dragon Pulse  
+- Toxic  
+- Withdraw  
+- Recover  
+
+Groudon @ Full Incense  
+Ability: Drought  
+EVs: 252 HP / 4 SpD / 252 Spe  
+Jolly Nature  
+- Precipice Blades  
+- Flare Blitz  
+- Swords Dance  
+- Dragon Dance  
+
+Eternatus @ Flame Orb  
+Ability: spacepower  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Venoshock  
+- Magma Storm  
+- Blizzard  
+- Autotomize  
+
+Keldeo-Resolute @ Life Orb  
+Ability: perfectsword  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Sacred Sword  
+- Secret Sword  
+- Flip Turn  
+- Aqua Jet  
+
+
+=== [gen6ubers] Ordinary Mewtwo ===
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Naive Nature  
+- Expanding Force  
+- Aura Sphere  
+- Aurora Beam  
+- Brutal Swing  
+
+Lilligant @ Flower Sweet  
+Ability: flowershield  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Apple Acid  
+- Bubble  
+- Teeter Dance  
+- Recover  
+
+Meloetta @ Protector  
+Ability: Serene Grace  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hyper Voice  
+- Frost Breath  
+- Screech  
+- Recover  
+
+Landorus-Therian @ Assault Vest  
+Ability: pacify  
+EVs: 4 HP / 252 Def / 252 Spe  
+Timid Nature  
+- Earth Power  
+- Aeroblast  
+- expressheal  
+- U-turn  
+
+Eternatus @ Utility Umbrella  
+Ability: spacepower  
+EVs: 4 HP / 252 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Venoshock  
+- Magma Storm  
+- Blizzard  
+- Recover  
+
+Arceus-Fairy @ Pixie Plate  
+Ability: Multitype  
+EVs: 4 HP / 252 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Flamethrower  
+- Calm Mind  
+- Recover  
+
+
+=== [gen6ubers] Latios' Acceleration ===
+
+Latios (M) @ Latiosite  
+Ability: Moxie  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Draco Meteor  
+- Psychic  
+- Earthquake  
+- Double Team  
+
+Arceus-Fairy @ Pixie Plate  
+Ability: Multitype  
+EVs: 4 HP / 252 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Moongeist Beam  
+- Calm Mind  
+- Recover  
+
+Registeel @ Sweet Apple  
+Ability: doubledown  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- regiball  
+- Flamethrower  
+- Stealth Rock  
+- U-turn  
+
+Landorus-Therian @ Assault Vest  
+Ability: pacify  
+EVs: 4 HP / 252 Def / 252 Spe  
+Timid Nature  
+- Earth Power  
+- Aeroblast  
+- expressheal  
+- U-turn  
+
+Zekrom @ Light Ball  
+Ability: Teravolt  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Bolt Strike  
+- royalrampage  
+- flyingdeluge  
+- Dragon Dance  
+
+Deoxys-Attack @ Life Orb  
+Ability: Antipathy  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Ice Beam  
+- Focus Blast  
+- Magma Storm  
+
+
+=== [gen6ubers] Ho-Oh takes flight! ===
+
+Ho-Oh @ Flame Orb  
+Ability: Magic Guard  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Sacred Fire  
+- Avalanche  
+- shatterreign  
+- Feather Dance  
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+Shiny: Yes  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Naive Nature  
+- Expanding Force  
+- Aura Sphere  
+- Aurora Beam  
+- Brutal Swing  
+
+Cobalion @ Metal Coat  
+Ability: ironwill  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Careful Nature  
+- Sacred Sword  
+- Close Combat  
+- Stealth Rock  
+- U-turn  
+
+Landorus-Therian @ Assault Vest  
+Ability: pacify  
+EVs: 4 HP / 252 Def / 252 Spe  
+Timid Nature  
+- Earth Power  
+- Aeroblast  
+- expressheal  
+- U-turn  
+
+Kyurem-Black @ Utility Umbrella  
+Ability: dragonpower  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Ice Shard  
+- glacialstrike  
+- Roost  
+- Slush Switch  
+
+Greninja-Ash @ Life Orb  
+Ability: speedpledge  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Dark Pulse  
+- Blizzard  
+- Slush Switch  
+
+
+=== [gen6ubers] Dignity: Two Houses ===
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Naive Nature  
+- Expanding Force  
+- Aura Sphere  
+- Aurora Beam  
+- Brutal Swing  
+
+Dialga @ Chople Berry  
+Ability: Regenerator  
+EVs: 252 SpA / 252 SpD / 4 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Dragon Pulse  
+- Aura Sphere  
+- Flash Cannon  
+- Shell Smash  
+
+Landorus-Therian @ Assault Vest  
+Ability: pacify  
+EVs: 4 HP / 252 Def / 252 Spe  
+Timid Nature  
+- Earth Power  
+- Aeroblast  
+- expressheal  
+- U-turn  
+
+Keldeo-Resolute @ Life Orb  
+Ability: perfectsword  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Sacred Sword  
+- Secret Sword  
+- Flip Turn  
+- Aqua Jet  
+
+Lilligant @ Flower Sweet  
+Ability: flowershield  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Apple Acid  
+- Bubble  
+- Teeter Dance  
+- Recover  
+
+Zacian-Crowned @ Rusted Sword  
+Ability: Intrepid Sword  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Meteor Mash  
+- Twinkle Tackle  
+- Close Combat  
+- Ice Fang  
+
+
+=== [gen6ubers] Dialga's Weakness Policy ===
+
+Dialga @ Weakness Policy  
+Ability: Regenerator  
+EVs: 252 SpA / 252 SpD / 4 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Dragon Pulse  
+- Aura Sphere  
+- Flash Cannon  
+- Shell Smash  
+
+Giratina @ Leftovers  
+Ability: distortionveil  
+Shiny: Yes  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Calm Nature  
+- royalinversion  
+- Dragon Breath  
+- Protect  
+- Teleport  
+
+Keldeo-Resolute @ Life Orb  
+Ability: perfectsword  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Sacred Sword  
+- Secret Sword  
+- Aqua Jet  
+- Flip Turn  
+
+Palkia @ Choice Scarf  
+Ability: dracolate  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+- royalsubmersion  
+- Boomburst  
+- Surf  
+- Flip Turn  
+
+Landorus-Therian @ Assault Vest  
+Ability: pacify  
+EVs: 4 HP / 252 Def / 252 Spe  
+Timid Nature  
+- Earth Power  
+- Aeroblast  
+- expressheal  
+- U-turn  
+
+Gardevoir (F) @ Bright Powder  
+Ability: Trace  
+Shiny: Yes  
+EVs: 252 HP / 252 Def / 4 Spe  
+Bold Nature  
+- Moonblast  
+- psychodrain  
+- Calm Mind  
+- Celebrate  
+
+
+=== [gen6ubers] Zekrom's Last Chance ===
+
+Zekrom @ Light Ball  
+Ability: Teravolt  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Bolt Strike  
+- royalrampage  
+- flyingdeluge  
+- Dragon Dance  
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Naive Nature  
+- Expanding Force  
+- Aura Sphere  
+- Aurora Beam  
+- Poltergeist  
+
+Landorus-Therian @ Assault Vest  
+Ability: pacify  
+EVs: 4 HP / 252 Def / 252 Spe  
+Timid Nature  
+- Earth Power  
+- Aeroblast  
+- expressheal  
+- U-turn  
+
+Vaporeon (F) @ Leftovers  
+Ability: utilitylock  
+EVs: 252 HP / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dragon Breath  
+- Stealth Rock  
+- Yawn  
+- Withdraw  
+
+Arceus-Fairy @ Pixie Plate  
+Ability: Multitype  
+EVs: 4 HP / 252 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Moongeist Beam  
+- Calm Mind  
+- Recover  
+
+Lilligant @ Flower Sweet  
+Ability: flowershield  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Apple Acid  
+- Bubble  
+- Teeter Dance  
+- Recover  
+
+
+=== [gen6ubers] The Dark Triad ===
+
+Dialga @ Chople Berry  
+Ability: Regenerator  
+EVs: 252 SpA / 252 SpD / 4 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Dragon Pulse  
+- Aura Sphere  
+- Flash Cannon  
+- Shell Smash  
+
+Groudon @ Full Incense  
+Ability: Drought  
+EVs: 252 HP / 4 SpD / 252 Spe  
+Jolly Nature  
+- Precipice Blades  
+- Flare Blitz  
+- Swords Dance  
+- Dragon Dance  
+
+Zekrom @ Light Ball  
+Ability: Teravolt  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Bolt Strike  
+- royalrampage  
+- flyingdeluge  
+- Dragon Dance  
+
+Lilligant @ Flower Sweet  
+Ability: flowershield  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Apple Acid  
+- Bubble  
+- Teeter Dance  
+- Recover  
+
+Landorus-Therian @ Assault Vest  
+Ability: pacify  
+EVs: 4 HP / 252 Def / 252 Spe  
+Timid Nature  
+- Earth Power  
+- Aeroblast  
+- expressheal  
+- U-turn  
+
+Meloetta @ Protector  
+Ability: Serene Grace  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hyper Voice  
+- Frost Breath  
+- Screech  
+- Recover  
+
+
+=== [gen6ubers] The Big Three ===
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Naive Nature  
+- Expanding Force  
+- Aura Sphere  
+- Aurora Beam  
+- Brutal Swing  
+
+Dialga @ Chople Berry  
+Ability: Regenerator  
+EVs: 252 SpA / 252 SpD / 4 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dragon Pulse  
+- Flash Cannon  
+- Stealth Rock  
+- Shell Smash  
+
+Arceus-Fairy @ Pixie Plate  
+Ability: Multitype  
+EVs: 4 HP / 252 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Flamethrower  
+- Calm Mind  
+- Recover  
+
+Keldeo-Resolute @ Life Orb  
+Ability: perfectsword  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Sacred Sword  
+- Secret Sword  
+- Aqua Jet  
+- Flip Turn  
+
+Lilligant @ Flower Sweet  
+Ability: flowershield  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Apple Acid  
+- Bubble  
+- Teeter Dance  
+- Recover  
+
+Landorus-Therian @ Assault Vest  
+Ability: pacify  
+EVs: 4 HP / 252 Def / 252 Spe  
+Timid Nature  
+- Earth Power  
+- Aeroblast  
+- expressheal  
+- U-turn  
+
+
+=== [gen6ubers] Meloetta's Rhythm ===
+
+Meloetta-Pirouette @ Throat Spray  
+Ability: Defiant  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Storm Throw  
+- Double Hit  
+- Icicle Crash  
+- Agility  
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Naive Nature  
+- Expanding Force  
+- Aura Sphere  
+- Aurora Beam  
+- Poltergeist  
+
+Dialga @ Metal Coat  
+Ability: Regenerator  
+EVs: 252 SpA / 252 SpD / 4 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Dragon Pulse  
+- Aura Sphere  
+- Stealth Rock  
+- Shell Smash  
+
+Xerneas @ Power Herb  
+Ability: Fairy Aura  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Thunder  
+- Aurora Beam  
+- Geomancy  
+
+Lilligant @ Flower Sweet  
+Ability: flowershield  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Apple Acid  
+- Bubble  
+- Teeter Dance  
+- Recover  
+
+Landorus-Therian @ Assault Vest  
+Ability: inveigle  
+EVs: 4 HP / 252 SpD / 252 Spe  
+Hasty Nature  
+- Earthquake  
+- Aeroblast  
+- expressheal  
+- U-turn  
+
+
+=== [gen6ubers] Weavile's Assault ===
+
+Weavile @ Snowball  
+Ability: Antipathy  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Lash Out  
+- Triple Axel  
+- frigidblast  
+- Slush Switch  
+
+Yveltal @ White Herb  
+Ability: Dark Aura  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dark Pulse  
+- Oblivion Wing  
+- Roost  
+- Uproar  
+
+Landorus-Therian @ Assault Vest  
+Ability: inveigle  
+EVs: 4 HP / 252 SpD / 252 Spe  
+Hasty Nature  
+- Earthquake  
+- Aeroblast  
+- expressheal  
+- U-turn  
+
+Palkia @ Choice Scarf  
+Ability: dracolate  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+- royalsubmersion  
+- Boomburst  
+- Surf  
+- Flip Turn  
+
+Registeel @ Sweet Apple  
+Ability: doubledown  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- regiball  
+- Flamethrower  
+- Stealth Rock  
+- U-turn  
+
+Arceus-Fairy @ Pixie Plate  
+Ability: Multitype  
+EVs: 4 HP / 252 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Flamethrower  
+- Calm Mind  
+- Recover  
+
+
+=== [gen6ubers] Darkrai's Dreams ===
+
+Darkrai @ Bright Powder  
+Ability: Bad Dreams  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dark Pulse  
+- Venoshock  
+- Slush Switch  
+- Dark Void  
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Naive Nature  
+- Expanding Force  
+- Aura Sphere  
+- Aurora Beam  
+- Brutal Swing  
+
+Zekrom @ Light Ball  
+Ability: Teravolt  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Bolt Strike  
+- royalrampage  
+- flyingdeluge  
+- Dragon Dance  
+
+Giratina @ Float Stone  
+Ability: distortionveil  
+Shiny: Yes  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Calm Nature  
+- royalinversion  
+- Dragon Breath  
+- Heal Block  
+- Teleport  
+
+Landorus-Therian @ Assault Vest  
+Ability: pacify  
+EVs: 4 HP / 252 Def / 252 Spe  
+Timid Nature  
+- Earth Power  
+- Aeroblast  
+- expressheal  
+- U-turn  
+
+Arceus-Fairy @ Pixie Plate  
+Ability: Multitype  
+EVs: 4 HP / 252 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Stealth Rock  
+- Calm Mind  
+- Recover  
+
+
+=== [gen6ubers] Giratina's Darkness ===
+
+Giratina-Origin @ Griseous Orb  
+Ability: distortionpower  
+Shiny: Yes  
+EVs: 252 Atk / 252 Spe  
+Jolly Nature  
+- royalinversion  
+- Icicle Crash  
+- Swords Dance  
+- Shadow Sneak  
+
+Infernape (M) @ Life Orb  
+Ability: Protean  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Flare Blitz  
+- Earthquake  
+- Gunk Shot  
+- Flip Turn  
+
+Cresselia @ Leftovers  
+Ability: moonlightveil  
+Shiny: Yes  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Calm Nature  
+- royalreverie  
+- Thunder Wave  
+- Moonlight  
+- Parting Shot  
+
+Kyogre @ Choice Scarf  
+Ability: Drizzle  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Water Spout  
+- Origin Pulse  
+- Thunder  
+- Ice Beam  
+
+Kyurem-Black @ Choice Scarf  
+Ability: dragonpower  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- celestialstrike  
+- glacialstrike  
+- Fusion Bolt  
+- Slush Switch  
+
+Landorus-Therian @ White Herb  
+Ability: pacify  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Calm Nature  
+- Earth Power  
+- Stealth Rock  
+- expressheal  
+- U-turn  
+
+
+=== [gen6ubers] Costa Coast to Coast ===
+
+Carracosta (M) @ Wave Incense  
+Ability: Anger Point  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- essencecrusher  
+- Earthquake  
+- Gunk Shot  
+- Autotomize  
+
+Calyrex-Shadow @ Thunder Stone  
+Ability: Power Spot  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psyshock  
+- Astral Barrage  
+- Hyper Beam  
+- Parting Shot  
+
+Gardevoir (F) @ Bright Powder  
+Ability: Trace  
+Shiny: Yes  
+EVs: 252 HP / 252 Def / 4 Spe  
+Bold Nature  
+- Moonblast  
+- psychodrain  
+- Calm Mind  
+- Celebrate  
+
+Lilligant @ Flower Sweet  
+Ability: flowershield  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Apple Acid  
+- Bubble  
+- Teeter Dance  
+- Recover  
+
+Gallade @ Galladite  
+Ability: Steadfast  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Close Combat  
+- frigidblast  
+- Low Sweep  
+- Slush Switch  
+
+Landorus-Therian @ White Herb  
+Ability: pacify  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Earth Power  
+- Stealth Rock  
+- expressheal  
+- U-turn  
+
+
+=== [gen6ubers] Meloetta's Performance (Team #47: End of Lando-T Era) ===
+
+Meloetta @ Protector  
+Ability: Serene Grace  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hyper Voice  
+- Frost Breath  
+- Screech  
+- Recover  
+
+Gardevoir (F) @ Bright Powder  
+Ability: Trace  
+Shiny: Yes  
+EVs: 252 HP / 252 Def / 4 Spe  
+Bold Nature  
+- Moonblast  
+- psychodrain  
+- Calm Mind  
+- Celebrate  
+
+Arceus-Fairy @ Pixie Plate  
+Ability: Multitype  
+EVs: 4 HP / 252 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Flamethrower  
+- Calm Mind  
+- Recover  
+
+Calyrex-Shadow @ Choice Scarf  
+Ability: Power Spot  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psyshock  
+- Astral Barrage  
+- Hyper Beam  
+- Parting Shot  
+
+Lilligant @ Flower Sweet  
+Ability: flowershield  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Apple Acid  
+- Bubble  
+- Teeter Dance  
+- Recover  
+
+Landorus-Therian @ Assault Vest  
+Ability: pacify  
+EVs: 4 HP / 252 Def / 252 Spe  
+Timid Nature  
+- Earth Power  
+- Aeroblast  
+- expressheal  
+- U-turn  
+
+
+=== [gen6ubers] Meloetta-Senpai (Team #48: Start of Tapu Fini Era) ===
+
+Meloetta-Pirouette @ Throat Spray  
+Ability: Defiant  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Storm Throw  
+- Double Hit  
+- Icicle Crash  
+- Agility  
+
+Weavile @ Snowball  
+Ability: Antipathy  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Lash Out  
+- Triple Axel  
+- frigidblast  
+- Slush Switch  
+
+Tapu Koko @ Light Ball  
+Ability: lightningforce  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Naive Nature  
+- Bolt Strike  
+- Nature's Madness  
+- Brave Bird  
+- Volt Switch  
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Naive Nature  
+- Expanding Force  
+- Aura Sphere  
+- Poltergeist  
+- Poison Jab  
+
+Dialga @ Sweet Apple  
+Ability: Regenerator  
+EVs: 252 SpA / 252 SpD / 4 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Flash Cannon  
+- Aura Sphere  
+- Stealth Rock  
+- Shell Smash  
+
+Tapu Fini @ Bright Powder  
+Ability: mistyblessing  
+Shiny: Yes  
+EVs: 252 HP / 252 Def / 4 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Nature's Madness  
+- Heart Swap  
+- Recover  
+- Withdraw  
+
+
+=== [gen6ubers] Tapu Fini's Providence ===
+
+Tapu Fini @ Bright Powder  
+Ability: mistyblessing  
+Shiny: Yes  
+EVs: 252 HP / 252 Def / 4 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Nature's Madness  
+- Heart Swap  
+- Recover  
+- Withdraw  
+
+Magearna-Original @ Bright Powder  
+Ability: Soul-Heart  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Focus Blast  
+- Aurora Beam  
+- Gear Up  
+
+Calyrex-Shadow @ Choice Scarf  
+Ability: Power Spot  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psyshock  
+- Astral Barrage  
+- Hyper Beam  
+- Parting Shot  
+
+Lilligant @ Flower Sweet  
+Ability: flowershield  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Apple Acid  
+- Bubble  
+- Teeter Dance  
+- Recover  
+
+Keldeo-Resolute @ Life Orb  
+Ability: perfectsword  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Sacred Sword  
+- Secret Sword  
+- Aqua Jet  
+- Flip Turn  
+
+Arceus-Fairy @ Pixie Plate  
+Ability: Multitype  
+EVs: 4 HP / 252 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Flamethrower  
+- Calm Mind  
+- Recover  
+
+
+=== [gen6ubers] Tapu Koko's Dominion ===
+
+Tapu Koko @ Light Ball  
+Ability: lightningforce  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Naive Nature  
+IVs: 0 Atk  
+- Electro Ball  
+- Nature's Madness  
+- Aeroblast  
+- Volt Switch  
+
+Dialga @ Sweet Apple  
+Ability: Regenerator  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Dragon Pulse  
+- Aura Sphere  
+- Flash Cannon  
+- Shell Smash  
+
+Meloetta-Pirouette @ Throat Spray  
+Ability: Defiant  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Storm Throw  
+- Double Hit  
+- Icicle Crash  
+- Agility  
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Naive Nature  
+- Expanding Force  
+- Aura Sphere  
+- Poltergeist  
+- Poison Jab  
+
+Kyurem-Black @ Snowball  
+Ability: dragonpower  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- glacialstrike  
+- Ice Shard  
+- Roost  
+- Slush Switch  
+
+Tapu Fini @ Bright Powder  
+Ability: mistyblessing  
+Shiny: Yes  
+EVs: 252 HP / 252 Def / 4 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Nature's Madness  
+- Heart Swap  
+- Recover  
+- Withdraw  
+
+
+=== [gen6ubers] Tapu Lele's Revolution ===
+
+Tapu Lele @ Choice Scarf  
+Ability: Analytic  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Stored Power  
+- Light of Ruin  
+- Aurora Beam  
+- Slush Switch  
+
+Lilligant @ Flower Sweet  
+Ability: flowershield  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Apple Acid  
+- Bubble  
+- Teeter Dance  
+- Recover  
+
+Tapu Fini @ Bright Powder  
+Ability: mistyblessing  
+Shiny: Yes  
+EVs: 252 HP / 252 Def / 4 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Nature's Madness  
+- Heart Swap  
+- Recover  
+- Withdraw  
+
+Lucario (M) @ Lucarionite  
+Ability: speedtouch  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Close Combat  
+- auradrain  
+- Low Sweep  
+- Bullet Punch  
+
+Calyrex-Shadow @ Choice Scarf  
+Ability: Power Spot  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psyshock  
+- Astral Barrage  
+- Hyper Beam  
+- Parting Shot  
+
+Arceus-Fairy @ Pixie Plate  
+Ability: Multitype  
+EVs: 4 HP / 252 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Flamethrower  
+- Calm Mind  
+- Recover  
+
+
+=== [gen6ubers] Infernape's Jungle ===
+
+Infernape (M) @ Life Orb  
+Ability: Protean  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Naive Nature  
+- Overheat  
+- Earthquake  
+- Gunk Shot  
+- Flip Turn  
+
+Tapu Fini @ Bright Powder  
+Ability: mistyblessing  
+Shiny: Yes  
+EVs: 252 HP / 252 Def / 4 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Nature's Madness  
+- Heart Swap  
+- Recover  
+- Withdraw  
+
+Calyrex-Shadow @ Water Stone  
+Ability: Power Spot  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psyshock  
+- Astral Barrage  
+- Parting Shot  
+- Nasty Plot  
+
+Meloetta @ Protector  
+Ability: Serene Grace  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hyper Voice  
+- Frost Breath  
+- Screech  
+- Recover  
+
+Registeel @ Sweet Apple  
+Ability: doubledown  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- regiball  
+- Earthquake  
+- Stealth Rock  
+- U-turn  
+
+Arceus-Fairy @ Pixie Plate  
+Ability: Multitype  
+EVs: 4 HP / 252 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Flamethrower  
+- Calm Mind  
+- Recover  
+
+
+=== [gen6ubers] Bellsprout Blooms ===
+
+Bellsprout (M) @ Toxic Orb  
+Ability: Chlorophyll  
+Shiny: Yes  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Naive Nature  
+- Acid  
+- Venoshock  
+- Poison Sting  
+- sludgeswitch  
+
+Tapu Koko @ Light Ball  
+Ability: lightningforce  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Naive Nature  
+IVs: 0 Atk  
+- Electro Ball  
+- Nature's Madness  
+- Aeroblast  
+- Volt Switch  
+
+Rayquaza @ Life Orb  
+Ability: dragonheart  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- royalturbulence  
+- Earthquake  
+- Triple Axel  
+- Dragon Dance  
+
+Meloetta @ Protector  
+Ability: Serene Grace  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hyper Voice  
+- Frost Breath  
+- Screech  
+- Recover  
+
+Tapu Fini @ Bright Powder  
+Ability: mistyblessing  
+Shiny: Yes  
+EVs: 252 HP / 252 Def / 4 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Nature's Madness  
+- Heart Swap  
+- Recover  
+- Withdraw  
+
+Dialga @ Sweet Apple  
+Ability: Regenerator  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Aura Sphere  
+- Flash Cannon  
+- Stealth Rock  
+- Shell Smash  
+
+
+=== [gen6ubers] Phione's Offensive ===
+
+Phione @ Sea Incense  
+Ability: Drizzle  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Surf  
+- Focus Blast  
+- Aurora Beam  
+- Nasty Plot  
+
+Zekrom @ Light Ball  
+Ability: Teravolt  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Bolt Strike  
+- royalrampage  
+- flyingdeluge  
+- Dragon Dance  
+
+Xerneas @ Power Herb  
+Ability: Fairy Aura  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Thunder  
+- Aurora Beam  
+- Geomancy  
+
+Tapu Fini @ Bright Powder  
+Ability: mistyblessing  
+Shiny: Yes  
+EVs: 252 HP / 252 Def / 4 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Nature's Madness  
+- Heart Swap  
+- Recover  
+- Withdraw  
+
+Genesect @ Sweet Apple  
+Ability: doublelayer  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Naive Nature  
+- Gunk Shot  
+- Echoed Voice  
+- U-turn  
+- Shell Smash  
+
+Eternatus @ Toxic Orb  
+Ability: spacepower  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Venoshock  
+- Magma Storm  
+- Blizzard  
+- Autotomize  
+
+
+=== [gen6ubers] Marshadow Returns ===
+
+Marshadow @ Choice Band  
+Ability: Technician  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Poltergeist  
+- shatterfist  
+- Shadow Sneak  
+- Low Sweep  
+
+Arceus-Fairy @ Pixie Plate  
+Ability: Multitype  
+EVs: 4 HP / 252 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Flamethrower  
+- Calm Mind  
+- Recover  
+
+Tapu Fini @ Bright Powder  
+Ability: mistyblessing  
+Shiny: Yes  
+EVs: 252 HP / 252 Def / 4 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Nature's Madness  
+- Heart Swap  
+- Recover  
+- Withdraw  
+
+Kyurem-Black @ Snowball  
+Ability: dragonpower  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- glacialstrike  
+- Ice Shard  
+- Roost  
+- Slush Switch  
+
+Lilligant @ Flower Sweet  
+Ability: flowershield  
+Shiny: Yes  
+EVs: 4 HP / 252 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Apple Acid  
+- Bubble  
+- Teeter Dance  
+- Recover  
+
+Meloetta @ Protector  
+Ability: Serene Grace  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hyper Voice  
+- Frost Breath  
+- Screech  
+- Recover  
+
+
+=== [gen6ubers] Is Mewtwo still an S-Tier? ===
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Naive Nature  
+- Aurora Beam  
+- Aura Sphere  
+- Brutal Swing  
+- Gunk Shot  
+
+Kyurem-Black @ Snowball  
+Ability: dragonpower  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- glacialstrike  
+- Ice Shard  
+- Roost  
+- Slush Switch  
+
+Tapu Fini @ Bright Powder  
+Ability: mistyblessing  
+Shiny: Yes  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Nature's Madness  
+- Heart Swap  
+- Recover  
+- Withdraw  
+
+Lilligant @ Flower Sweet  
+Ability: flowershield  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Apple Acid  
+- Bubble  
+- Teeter Dance  
+- Recover  
+
+Arceus-Fairy @ Pixie Plate  
+Ability: Multitype  
+EVs: 4 HP / 252 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Flamethrower  
+- Calm Mind  
+- Recover  
+
+Dialga @ Metal Coat  
+Ability: Regenerator  
+EVs: 252 SpA / 252 SpD / 4 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Dragon Pulse  
+- Flash Cannon  
+- Thunder  
+- Shell Smash  
+
+
+=== [gen6ubers] Meowth takes the lead! ===
+
+Meowth (M) @ Power Weight  
+Ability: Technician  
+EVs: 252 HP / 252 Atk / 4 Spe  
+Adamant Nature  
+- Fake Out  
+- Quick Attack  
+- Bullet Seed  
+- Swords Dance  
+
+Tapu Fini @ Bright Powder  
+Ability: mistyblessing  
+Shiny: Yes  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Nature's Madness  
+- Heart Swap  
+- Recover  
+- Withdraw  
+
+Infernape (M) @ Life Orb  
+Ability: Protean  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Naive Nature  
+- Overheat  
+- Earthquake  
+- Gunk Shot  
+- Flip Turn  
+
+Meloetta @ Protector  
+Ability: Serene Grace  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hyper Voice  
+- Echoed Voice  
+- Screech  
+- Recover  
+
+Lilligant @ Flower Sweet  
+Ability: flowershield  
+Shiny: Yes  
+EVs: 4 HP / 252 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Apple Acid  
+- Bubble  
+- Teeter Dance  
+- Recover  
+
+Dialga @ Adamant Orb  
+Ability: Regenerator  
+EVs: 252 SpA / 252 SpD / 4 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Dragon Pulse  
+- Flash Cannon  
+- Thunder  
+- Shell Smash  
+
+
+=== [gen6ubers] Regigigas Stands its Ground! ===
+
+Regigigas @ Toxic Orb  
+Ability: Guts  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Facade  
+- Storm Throw  
+- Avalanche  
+- Double Team  
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Naive Nature  
+- Expanding Force  
+- Aura Sphere  
+- Poltergeist  
+- Poison Jab  
+
+Zekrom @ Light Ball  
+Ability: Teravolt  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Bolt Strike  
+- royalrampage  
+- flyingdeluge  
+- Dragon Dance  
+
+Eternatus @ Toxic Orb  
+Ability: spacepower  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Venoshock  
+- Magma Storm  
+- Blizzard  
+- Autotomize  
+
+Tapu Fini @ Bright Powder  
+Ability: mistyblessing  
+Shiny: Yes  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Nature's Madness  
+- Heart Swap  
+- Recover  
+- Withdraw  
+
+Arceus-Fairy @ Pixie Plate  
+Ability: Multitype  
+EVs: 4 HP / 252 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Flamethrower  
+- Calm Mind  
+- Recover  
+
+
+=== [gen6ubers] Tapu Koko's Lightning Speed ===
+
+Tapu Koko @ Light Ball  
+Ability: lightningforce  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Naive Nature  
+IVs: 0 Atk  
+- Electro Ball  
+- Nature's Madness  
+- Aeroblast  
+- Volt Switch  
+
+Victini @ Shiny Stone  
+Ability: machspeed  
+EVs: 212 Atk / 224 SpA / 72 Spe  
+Naive Nature  
+- V-create  
+- Focus Blast  
+- Bolt Strike  
+- Glaciate  
+
+Salamence (M) @ Salamencite  
+Ability: pacify  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Body Slam  
+- Earthquake  
+- Explosion  
+- Dragon Dance  
+
+Calyrex-Shadow @ Choice Scarf  
+Ability: Power Spot  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psyshock  
+- Astral Barrage  
+- Hyper Beam  
+- Parting Shot  
+
+Tapu Fini @ Bright Powder  
+Ability: mistyblessing  
+Shiny: Yes  
+EVs: 252 HP / 252 Def / 4 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Nature's Madness  
+- Heart Swap  
+- Recover  
+- Withdraw  
+
+Arceus-Fairy @ Pixie Plate  
+Ability: Multitype  
+EVs: 4 HP / 252 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- royalturbulence  
+- Calm Mind  
+- Recover  
+
+
+=== [gen6ubers] Color Palette Paradise ===
+
+Necrozma-Dusk-Mane @ Metal Coat  
+Ability: Prism Armor  
+Shiny: Yes  
+EVs: 248 HP / 252 SpD / 8 Spe  
+Careful Nature  
+- Sunsteel Strike  
+- Earthquake  
+- Shadow Claw  
+- Autotomize  
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Naive Nature  
+- Expanding Force  
+- Aura Sphere  
+- Poltergeist  
+- Poison Jab  
+
+Tapu Fini @ Bright Powder  
+Ability: mistyblessing  
+Shiny: Yes  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Nature's Madness  
+- Heart Swap  
+- Recover  
+- Withdraw  
+
+Calyrex-Shadow @ Choice Scarf  
+Ability: Power Spot  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psyshock  
+- Astral Barrage  
+- Hyper Beam  
+- Parting Shot  
+
+Meloetta @ Protector  
+Ability: Serene Grace  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hyper Voice  
+- Frost Breath  
+- Screech  
+- Recover  
+
+Arceus-Fairy @ Pixie Plate  
+Ability: Multitype  
+EVs: 4 HP / 252 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Stealth Rock  
+- Calm Mind  
+- Recover  
+
+
+=== [gen6ubers] Yveltal Awakens ===
+
+Yveltal @ White Herb  
+Ability: Dark Aura  
+EVs: 4 HP / 252 Def / 252 Spe  
+Timid Nature  
+- Dark Pulse  
+- Oblivion Wing  
+- Sucker Punch  
+- Uproar  
+
+Infernape (M) @ Flame Orb  
+Ability: Blaze  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Naive Nature  
+- Eruption  
+- Stone Edge  
+- Gunk Shot  
+- Flip Turn  
+
+Marshadow @ Choice Band  
+Ability: Technician  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Poltergeist  
+- shatterfist  
+- Shadow Sneak  
+- Low Sweep  
+
+Necrozma-Dusk-Mane @ Metal Coat  
+Ability: Prism Armor  
+Shiny: Yes  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Careful Nature  
+- Shadow Claw  
+- Sunsteel Strike  
+- Earthquake  
+- Moonlight  
+
+Tapu Fini @ Bright Powder  
+Ability: mistyblessing  
+Shiny: Yes  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Nature's Madness  
+- Heart Swap  
+- Recover  
+- Withdraw  
+
+Xerneas @ Power Herb  
+Ability: Fairy Aura  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Thunder  
+- Aurora Beam  
+- Geomancy  
+
+
+=== [gen6ubers] Enter: Ultra Necrozma Dusk ===
+
+Necrozma-Dusk-Mane @ Light Clay  
+Ability: searingpower  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Light That Burns the Sky  
+- Brutal Swing  
+- Earthquake  
+- Autotomize  
+
+Meloetta @ Protector  
+Ability: Serene Grace  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hyper Voice  
+- Echoed Voice  
+- Screech  
+- Recover  
+
+Dialga @ Metal Coat  
+Ability: Regenerator  
+EVs: 252 SpA / 252 SpD / 4 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Dragon Pulse  
+- Flash Cannon  
+- Fire Blast  
+- Shell Smash  
+
+Registeel @ Sweet Apple  
+Ability: doubledown  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- regiball  
+- Earthquake  
+- Stealth Rock  
+- U-turn  
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Naive Nature  
+- Expanding Force  
+- Aura Sphere  
+- Poltergeist  
+- Poison Jab  
+
+Tapu Fini @ Bright Powder  
+Ability: mistyblessing  
+Shiny: Yes  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Nature's Madness  
+- Heart Swap  
+- Recover  
+- Withdraw  
+
+
+=== [gen6ubers] A New Dawn for the Meta ===
+
+Necrozma-Dawn-Wings @ Light Clay  
+Ability: soaringburst  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Light That Burns the Sky  
+- Prismatic Laser  
+- Dark Pulse  
+- Earth Power  
+
+Tapu Koko @ Light Ball  
+Ability: lightningforce  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Naive Nature  
+IVs: 0 Atk  
+- Electro Ball  
+- Nature's Madness  
+- Aeroblast  
+- Volt Switch  
+
+Dialga @ Sweet Apple  
+Ability: Regenerator  
+EVs: 252 SpA / 252 SpD / 4 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Aura Sphere  
+- Flash Cannon  
+- Stealth Rock  
+- Shell Smash  
+
+Calyrex-Shadow @ Choice Scarf  
+Ability: Power Spot  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Hasty Nature  
+IVs: 0 Atk  
+- Psyshock  
+- Astral Barrage  
+- Hyper Beam  
+- Parting Shot  
+
+Arceus-Poison @ Toxic Plate  
+Ability: Multitype  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Judgment  
+- Moongeist Beam  
+- glacialstrike  
+- Double Team  
+
+Tapu Fini @ Bright Powder  
+Ability: mistyblessing  
+Shiny: Yes  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Nature's Madness  
+- Heart Swap  
+- Recover  
+- Withdraw  
+
+
+=== [gen6ubers] Mewtwo's Armada (Team #64 End of Tapu Fini Era) ===
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Naive Nature  
+- Stored Power  
+- Aura Sphere  
+- Poison Jab  
+- Brutal Swing  
+
+Tapu Fini @ Bright Powder  
+Ability: mistyblessing  
+Shiny: Yes  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Nature's Madness  
+- Heart Swap  
+- Recover  
+- Withdraw  
+
+Meloetta @ Protector  
+Ability: Serene Grace  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hyper Voice  
+- Echoed Voice  
+- Screech  
+- Recover  
+
+Lilligant @ Flower Sweet  
+Ability: flowershield  
+Shiny: Yes  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Apple Acid  
+- Bubble  
+- Teeter Dance  
+- Recover  
+
+Arceus-Poison @ Toxic Plate  
+Ability: Multitype  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Earth Power  
+- Calm Mind  
+- Recover  
+
+Dialga @ Metal Coat  
+Ability: Regenerator  
+EVs: 252 SpA / 252 SpD / 4 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Dragon Pulse  
+- Flash Cannon  
+- Fire Blast  
+- Shell Smash  
+
+
+=== [gen6ubers] Tyranitar's Tirade (Team #65: Start of Victreebel Era) ===
+
+Tyranitar (M) @ Rock Incense  
+Ability: Sand Stream  
+Shiny: Yes  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Sassy Nature  
+- Crunch  
+- Earthquake  
+- Milk Drink  
+- Stealth Rock  
+
+Tapu Koko @ Light Ball  
+Ability: lightningforce  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Naive Nature  
+IVs: 0 Atk  
+- Electro Ball  
+- Nature's Madness  
+- Aeroblast  
+- Volt Switch  
+
+Victreebel (M) @ Sweet Apple  
+Ability: Stamina  
+EVs: 252 HP / 240 SpD / 16 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Apple Acid  
+- Venoshock  
+- Recover  
+- Withdraw  
+
+Meloetta @ Protector  
+Ability: Serene Grace  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Frost Breath  
+- Echoed Voice  
+- Screech  
+- Recover  
+
+Genesect @ Sweet Apple  
+Ability: doublelayer  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Naive Nature  
+- Gunk Shot  
+- Echoed Voice  
+- U-turn  
+- Shell Smash  
+
+Necrozma-Dusk-Mane @ Light Clay  
+Ability: searingpower  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Light That Burns the Sky  
+- Brutal Swing  
+- Earthquake  
+- Dragon Dance  
+
+
+=== [gen6ubers] Zap Plate Arceus ===
+
+Arceus-Electric @ Zap Plate  
+Ability: Multitype  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+- Electro Ball  
+- Mud Sport  
+- glacialstrike  
+- Venoshock  
+
+Genesect @ Sweet Apple  
+Ability: doublelayer  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Naive Nature  
+- Gunk Shot  
+- Echoed Voice  
+- U-turn  
+- Shell Smash  
+
+Meloetta @ Protector  
+Ability: Serene Grace  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Frost Breath  
+- Echoed Voice  
+- Screech  
+- Recover  
+
+Victreebel (M) @ Lax Incense  
+Ability: Stamina  
+EVs: 252 HP / 240 SpD / 16 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Apple Acid  
+- Venoshock  
+- Recover  
+- Withdraw  
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Naive Nature  
+- Stored Power  
+- Aura Sphere  
+- Poison Jab  
+- Brutal Swing  
+
+Rayquaza @ Life Orb  
+Ability: dragonheart  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- royalturbulence  
+- Venoshock  
+- Earthquake  
+- Dragon Dance  
+
+
+=== [gen6ubers] Blue Reverie ===
+
+Victreebel (M) @ Sweet Apple  
+Ability: Stamina  
+Shiny: Yes  
+EVs: 252 HP / 240 SpD / 16 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Apple Acid  
+- Venoshock  
+- Recover  
+- Withdraw  
+
+Necrozma-Dawn-Wings @ Choice Scarf  
+Ability: soaringburst  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Light That Burns the Sky  
+- Prismatic Laser  
+- Dark Pulse  
+- Earth Power  
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Naive Nature  
+- Expanding Force  
+- Aura Sphere  
+- Poison Jab  
+- Brutal Swing  
+
+Tapu Fini @ Utility Umbrella  
+Ability: mistyblessing  
+Shiny: Yes  
+EVs: 252 HP / 252 Def / 4 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Nature's Madness  
+- Stealth Rock  
+- Recover  
+- Withdraw  
+
+Meloetta @ Protector  
+Ability: Serene Grace  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Frost Breath  
+- Echoed Voice  
+- Screech  
+- Recover  
+
+Mew @ Sea Incense  
+Ability: Protean  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- royalpunishment  
+- royalinversion  
+- royalsubmersion  
+- Gunk Shot  
+
+
+=== [gen6ubers] Jirachi's Best Wishes ===
+
+Jirachi @ Metal Coat  
+Ability: Merciless  
+EVs: 252 Atk / 252 Spe  
+Jolly Nature  
+- shattershot  
+- shatterbeam  
+- Fire Punch  
+- Dragon Dance  
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Naive Nature  
+- Expanding Force  
+- Aura Sphere  
+- Poltergeist  
+- Poison Jab  
+
+Victreebel (M) @ Lax Incense  
+Ability: Stamina  
+EVs: 252 HP / 240 SpD / 16 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Apple Acid  
+- Venoshock  
+- Recover  
+- Withdraw  
+
+Ho-Oh @ White Herb  
+Ability: Magic Guard  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Careful Nature  
+- Sacred Fire  
+- royalturbulence  
+- Stealth Rock  
+- Aromatic Mist  
+
+Keldeo-Resolute @ Life Orb  
+Ability: perfectsword  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Sacred Sword  
+- Secret Sword  
+- shatterbolt  
+- Aqua Jet  
+
+Kyurem-White @ Sweet Apple  
+Ability: dragonpower  
+Shiny: Yes  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Calm Nature  
+- glacialstrike  
+- Dragon Breath  
+- Slush Switch  
+- Roost  
+
+
+=== [gen6ubers] Victreebel's Stall Team ===
+
+Victreebel (M) @ Utility Umbrella  
+Ability: Stamina  
+Shiny: Yes  
+EVs: 252 HP / 240 SpD / 16 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Apple Acid  
+- Venoshock  
+- Recover  
+- Withdraw  
+
+Ho-Oh @ Sweet Apple  
+Ability: Magic Guard  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Careful Nature  
+- Sacred Fire  
+- flameswitch  
+- Stealth Rock  
+- Aromatic Mist  
+
+Landorus-Therian @ Sweet Apple  
+Ability: pacify  
+EVs: 252 HP / 4 Atk / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Beak Blast  
+- expressheal  
+- U-turn  
+
+Blissey (F) @ Sweet Apple  
+Ability: Serene Grace  
+EVs: 252 HP / 4 Def / 252 SpD  
+Careful Nature  
+- Egg Bomb  
+- Thunder Wave  
+- Soft-Boiled  
+- Teleport  
+
+Phione @ Choice Scarf  
+Ability: Drizzle  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Surf  
+- Grass Knot  
+- Aurora Beam  
+- U-turn  
+
+Dialga @ Weakness Policy  
+Ability: Regenerator  
+EVs: 104 HP / 152 SpA / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Dragon Pulse  
+- Flash Cannon  
+- Thunder Wave  
+- Shell Smash  
+
+
+=== [gen6ubers] The Stallbreaker ===
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Naive Nature  
+- Expanding Force  
+- Aura Sphere  
+- Aurora Beam  
+- Poison Jab  
+
+Infernape (M) @ Expert Belt  
+Ability: Protean  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Stone Edge  
+- Earthquake  
+- Gunk Shot  
+- Flip Turn  
+
+Meloetta @ Throat Spray  
+Ability: ensemble  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Hasty Nature  
+- Frost Breath  
+- Storm Throw  
+- Screech  
+- Recover  
+
+Kyurem-Black @ Snowball  
+Ability: dragonpower  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- glacialstrike  
+- Ice Shard  
+- Roost  
+- Slush Switch  
+
+Victreebel (M) @ Sweet Apple  
+Ability: Stamina  
+Shiny: Yes  
+EVs: 252 HP / 240 SpD / 16 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Apple Acid  
+- Venoshock  
+- Recover  
+- Withdraw  
+
+Registeel @ Sweet Apple  
+Ability: doubledown  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- Stealth Rock  
+- Earthquake  
+- Rapid Spin  
+- U-turn  
+
+
+=== [gen6ubers] Tapu Koko's Alliance ===
+
+Tapu Koko @ Light Ball  
+Ability: lightningforce  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Naive Nature  
+- Bolt Strike  
+- Nature's Madness  
+- Brave Bird  
+- Volt Switch  
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Naive Nature  
+- Expanding Force  
+- Aura Sphere  
+- Aurora Beam  
+- Poison Jab  
+
+Victreebel (M) @ Sweet Apple  
+Ability: Stamina  
+EVs: 252 HP / 240 SpD / 16 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Apple Acid  
+- Venoshock  
+- Recover  
+- Withdraw  
+
+Marshadow @ Life Orb  
+Ability: Merciless  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Shadow Sneak  
+- shatterfist  
+- Stone Edge  
+- Low Sweep  
+
+Landorus-Therian (M)  
+Ability: pacify  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Earthquake  
+- Acrobatics  
+- Stone Edge  
+- Howl  
+
+Registeel @ Sweet Apple  
+Ability: doubledown  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- Gyro Ball  
+- Earthquake  
+- Stealth Rock  
+- U-turn  
+
+
+=== [gen6ubers] Azure Paradise ===
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Naive Nature  
+- Expanding Force  
+- Aura Sphere  
+- Aurora Beam  
+- Brutal Swing  
+
+Kyurem-Black @ Snowball  
+Ability: dragonpower  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- glacialstrike  
+- Ice Shard  
+- Roost  
+- Slush Switch  
+
+Dialga @ Dawn Stone  
+Ability: Regenerator  
+EVs: 104 HP / 152 Atk / 252 SpD  
+Gentle Nature  
+- Breaking Swipe  
+- Iron Head  
+- Draco Meteor  
+- Shell Smash  
+
+Meloetta @ Protector  
+Ability: ensemble  
+Shiny: Yes  
+EVs: 4 HP / 252 SpD / 252 Spe  
+Hasty Nature  
+- Frost Breath  
+- Storm Throw  
+- Screech  
+- Recover  
+
+Victreebel (M) @ Sweet Apple  
+Ability: Stamina  
+EVs: 252 HP / 240 SpD / 16 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Apple Acid  
+- Venoshock  
+- Recover  
+- Withdraw  
+
+Ho-Oh @ Sweet Apple  
+Ability: Magic Guard  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Careful Nature  
+- Sacred Fire  
+- flameswitch  
+- Stealth Rock  
+- Aromatic Mist  
+
+
+=== [gen6ubers] Porygon's Return? ===
+
+Porygon-Z @ Dubious Disc  
+Ability: Mold Breaker  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- enigmacharge  
+- mysteryspeed  
+- Avalanche  
+- Waterfall  
+
+Calyrex-Shadow @ Water Stone  
+Ability: Power Spot  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Hasty Nature  
+IVs: 0 Atk  
+- Psyshock  
+- Astral Barrage  
+- Hyper Beam  
+- Parting Shot  
+
+Palkia @ Choice Scarf  
+Ability: dracolate  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+- royalsubmersion  
+- Boomburst  
+- Surf  
+- Flip Turn  
+
+Victreebel (M) @ Sweet Apple  
+Ability: Stamina  
+Shiny: Yes  
+EVs: 252 HP / 240 SpD / 16 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Apple Acid  
+- Venoshock  
+- Recover  
+- Withdraw  
+
+Ho-Oh @ Sweet Apple  
+Ability: Magic Guard  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Careful Nature  
+- Sacred Fire  
+- flameswitch  
+- Stealth Rock  
+- Aromatic Mist  
+
+Genesect @ Sweet Apple  
+Ability: doublelayer  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Naive Nature  
+- Gunk Shot  
+- Echoed Voice  
+- U-turn  
+- Shell Smash  
+
+
+=== [gen6ubers] Mewtwo's Return to Form ===
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Naive Nature  
+- Expanding Force  
+- Aura Sphere  
+- Poison Jab  
+- Brutal Swing  
+
+Tapu Koko @ Light Ball  
+Ability: lightningforce  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Naive Nature  
+- Bolt Strike  
+- Nature's Madness  
+- Brave Bird  
+- Volt Switch  
+
+Zekrom @ Light Ball  
+Ability: Teravolt  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Bolt Strike  
+- royalrampage  
+- flyingdeluge  
+- Dragon Dance  
+
+Ho-Oh @ Sweet Apple  
+Ability: Magic Guard  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Careful Nature  
+- Sacred Fire  
+- flameswitch  
+- Stealth Rock  
+- Aromatic Mist  
+
+Lilligant @ Flower Sweet  
+Ability: flowershield  
+Shiny: Yes  
+EVs: 252 HP / 252 Def / 4 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Apple Acid  
+- Hurricane  
+- Teeter Dance  
+- Recover  
+
+Dialga @ Dawn Stone  
+Ability: Regenerator  
+EVs: 104 HP / 152 Atk / 252 SpD  
+Gentle Nature  
+- Breaking Swipe  
+- Iron Head  
+- Draco Meteor  
+- Shell Smash  
+
+
+=== [gen6ubers] Arceus Water's Benediction (Team #75 End of Victreebel Era) ===
+
+Arceus-Water @ Splash Plate  
+Ability: Multitype  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- sacredwater  
+- Earth Power  
+- Calm Mind  
+- Double Team  
+
+Cryogonal @ Snowball  
+Ability: Multiscale  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Aurora Beam  
+- Sheer Cold  
+- Frost Breath  
+- Slush Switch  
+
+Meloetta @ Protector  
+Ability: Serene Grace  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Frost Breath  
+- Echoed Voice  
+- Screech  
+- Recover  
+
+Porygon-Z @ Dubious Disc  
+Ability: Mold Breaker  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- enigmacharge  
+- mysteryspeed  
+- Avalanche  
+- Waterfall  
+
+Victreebel (M) @ Sweet Apple  
+Ability: Stamina  
+Shiny: Yes  
+EVs: 252 HP / 240 SpD / 16 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Apple Acid  
+- Venoshock  
+- Recover  
+- Withdraw  
+
+Dialga @ Sweet Apple  
+Ability: Regenerator  
+EVs: 104 HP / 152 SpA / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Dragon Pulse  
+- Flash Cannon  
+- Stealth Rock  
+- Shell Smash  
+
+
+=== [gen6ubers] Eternatus invades the Earth (Team #76: Start of New Seasons Era) ===
+
+Eternatus @ Draco Plate  
+Ability: spacepower  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Venoshock  
+- Dynamax Cannon  
+- Magma Storm  
+- Autotomize  
+
+Meloetta @ Protector  
+Ability: Serene Grace  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Frost Breath  
+- Echoed Voice  
+- Screech  
+- Recover  
+
+Lilligant @ Flower Sweet  
+Ability: flowershield  
+Shiny: Yes  
+EVs: 252 HP / 252 Def / 4 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Apple Acid  
+- Hurricane  
+- Teeter Dance  
+- Recover  
+
+Arceus-Ground @ Earth Plate  
+Ability: Multitype  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Judgment  
+- glacialstrike  
+- Calm Mind  
+- Recover  
+
+Tapu Fini @ Bright Powder  
+Ability: mistyblessing  
+Shiny: Yes  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Nature's Madness  
+- Stealth Rock  
+- Recover  
+- Withdraw  
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Naive Nature  
+- Expanding Force  
+- Aura Sphere  
+- Poison Jab  
+- Poltergeist  
+
+
+=== [gen6ubers] Let's get Spooky ===
+
+Arceus-Ghost @ Spooky Plate  
+Ability: Multitype  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Double Team  
+- Calm Mind  
+- Recover  
+
+Meloetta @ Protector  
+Ability: Serene Grace  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Frost Breath  
+- Echoed Voice  
+- Screech  
+- Recover  
+
+Infernape (M) @ Energy Powder  
+Ability: Protean  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Stone Edge  
+- Earthquake  
+- Gunk Shot  
+- Double Slap  
+
+Victini @ Shiny Stone  
+Ability: machspeed  
+EVs: 212 Atk / 224 SpA / 72 Spe  
+Naive Nature  
+- V-create  
+- Focus Blast  
+- Bolt Strike  
+- Glaciate  
+
+Registeel @ Sweet Apple  
+Ability: doubledown  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Sassy Nature  
+- Stealth Rock  
+- Earthquake  
+- Rapid Spin  
+- U-turn  
+
+Palkia @ Choice Scarf  
+Ability: dracolate  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+- royalsubmersion  
+- Boomburst  
+- Surf  
+- Flip Turn  
+
+
+=== [gen6ubers] Calyrex's Coronation ===
+
+Calyrex-Shadow @ Water Stone  
+Ability: Power Spot  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Hasty Nature  
+IVs: 0 Atk  
+- Psyshock  
+- Astral Barrage  
+- Hyper Beam  
+- Parting Shot  
+
+Meloetta @ Protector  
+Ability: Serene Grace  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Frost Breath  
+- Echoed Voice  
+- Screech  
+- Recover  
+
+Kyurem-Black @ Snowball  
+Ability: dragonpower  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- glacialstrike  
+- Ice Shard  
+- Roost  
+- Slush Switch  
+
+Genesect @ Sweet Apple  
+Ability: doublelayer  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Naive Nature  
+- Gunk Shot  
+- Echoed Voice  
+- U-turn  
+- Shell Smash  
+
+Regigigas @ Toxic Orb  
+Ability: Guts  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Facade  
+- Storm Throw  
+- Avalanche  
+- Double Team  
+
+Landorus @ White Herb  
+Ability: dyslexia  
+EVs: 252 SpA / 252 SpD / 4 Spe  
+Modest Nature  
+- Sludge Bomb  
+- Mud Bomb  
+- U-turn  
+- Roost  
+
+
+=== [gen6ubers] Mewtwo's Triple Trouble ===
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Naive Nature  
+- Expanding Force  
+- Earthquake  
+- Poison Jab  
+- Brutal Swing  
+
+Calyrex-Shadow @ Water Stone  
+Ability: Power Spot  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Hasty Nature  
+IVs: 0 Atk  
+- Psyshock  
+- Astral Barrage  
+- Hyper Beam  
+- Parting Shot  
+
+Mew @ Energy Powder  
+Ability: Protean  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- royalpunishment  
+- royalinversion  
+- royalsacrifice  
+- Gunk Shot  
+
+Keldeo-Resolute @ Life Orb  
+Ability: perfectsword  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Sacred Sword  
+- Secret Sword  
+- Flip Turn  
+- Aqua Jet  
+
+Tapu Fini @ Bright Powder  
+Ability: mistyblessing  
+Shiny: Yes  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Nature's Madness  
+- Stealth Rock  
+- Recover  
+- Withdraw  
+
+Dialga @ Dawn Stone  
+Ability: Regenerator  
+EVs: 104 HP / 152 Atk / 252 SpD  
+Gentle Nature  
+- Breaking Swipe  
+- Iron Head  
+- Draco Meteor  
+- Shell Smash  
+
+
+=== [gen6ubers] Normal Arceus' Judgment ===
+
+Arceus @ Energy Powder  
+Ability: impervious  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Giga Impact  
+- risingpower  
+- darkestnightfall  
+- sacredwater  
+
+Porygon-Z @ Dubious Disc  
+Ability: Mold Breaker  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- enigmacharge  
+- mysteryspeed  
+- Avalanche  
+- Waterfall  
+
+Ho-Oh @ Sweet Apple  
+Ability: Magic Guard  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Careful Nature  
+- Sacred Fire  
+- flameswitch  
+- Stealth Rock  
+- Aromatic Mist  
+
+Meloetta @ Protector  
+Ability: Serene Grace  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Frost Breath  
+- Echoed Voice  
+- Screech  
+- Recover  
+
+Tapu Fini @ Bright Powder  
+Ability: mistyblessing  
+Shiny: Yes  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Nature's Madness  
+- Heart Swap  
+- Recover  
+- Withdraw  
+
+Lucario (M) @ Lucarionite  
+Ability: speedtouch  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Close Combat  
+- auradrain  
+- Zen Headbutt  
+- Dragon Dance  
+
+
+=== [gen6ubers] Zygarde Unleashed ===
+
+Zygarde @ White Herb  
+Ability: Power Construct  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Land's Wrath  
+- Stone Edge  
+- Cross Poison  
+- Dragon Dance  
+
+Dialga @ Sweet Apple  
+Ability: Regenerator  
+EVs: 252 HP / 4 Def / 252 SpD  
+Sassy Nature  
+- Breaking Swipe  
+- Iron Head  
+- Stealth Rock  
+- Shell Smash  
+
+Zekrom @ Light Ball  
+Ability: Teravolt  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Bolt Strike  
+- royalrampage  
+- flyingdeluge  
+- Dragon Dance  
+
+Meloetta @ Protector  
+Ability: Serene Grace  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Frost Breath  
+- Echoed Voice  
+- Screech  
+- Recover  
+
+Infernape (M) @ Energy Powder  
+Ability: Protean  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Stone Edge  
+- Earthquake  
+- Gunk Shot  
+- Double Slap  
+
+Victreebel (M) @ Sweet Apple  
+Ability: Stamina  
+Shiny: Yes  
+EVs: 252 HP / 240 SpD / 16 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Apple Acid  
+- Venoshock  
+- Recover  
+- Withdraw  
+
+
+=== [gen6ubers] Forces of Nature ===
+
+Tapu Koko @ Light Ball  
+Ability: lightningforce  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Naive Nature  
+- Bolt Strike  
+- Nature's Madness  
+- Brave Bird  
+- Volt Switch  
+
+Lunala @ Oran Berry  
+Ability: Shadow Shield  
+EVs: 252 HP / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psyshock  
+- Moongeist Beam  
+- Ice Beam  
+- Roost  
+
+Kyogre @ Choice Scarf  
+Ability: Drizzle  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Water Spout  
+- Origin Pulse  
+- Thunder  
+- Ice Beam  
+
+Ho-Oh @ Sweet Apple  
+Ability: Magic Guard  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Careful Nature  
+- Sacred Fire  
+- flameswitch  
+- Stealth Rock  
+- Aromatic Mist  
+
+Tapu Fini @ Bright Powder  
+Ability: mistyblessing  
+Shiny: Yes  
+EVs: 252 HP / 252 Def / 4 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Nature's Madness  
+- Heart Swap  
+- Recover  
+- Withdraw  
+
+Calyrex-Shadow @ Water Stone  
+Ability: Power Spot  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Hasty Nature  
+IVs: 0 Atk  
+- Psyshock  
+- Astral Barrage  
+- Hyper Beam  
+- Parting Shot  
+
+
+=== [gen6ubers] Don't Underestimate Us! ===
+
+Xerneas @ Power Herb  
+Ability: Fairy Aura  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Thunder  
+- Aurora Beam  
+- Geomancy  
+
+Deoxys-Speed @ Life Orb  
+Ability: inertia  
+EVs: 4 HP / 252 Atk / 252 SpA  
+Naive Nature  
+- Payback  
+- Superpower  
+- Ice Beam  
+- Thunder  
+
+Meloetta @ Protector  
+Ability: Serene Grace  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Frost Breath  
+- Echoed Voice  
+- Screech  
+- Recover  
+
+Gallade @ Galladite  
+Ability: Long Reach  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Zen Headbutt  
+- Close Combat  
+- Stone Edge  
+- Low Sweep  
+
+Tapu Fini @ Bright Powder  
+Ability: mistyblessing  
+Shiny: Yes  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Nature's Madness  
+- Stealth Rock  
+- Recover  
+- Withdraw  
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Naive Nature  
+- Stored Power  
+- Aura Sphere  
+- Poison Jab  
+- Brutal Swing  
+
+
+=== [gen6ubers] Meloetta's Song ===
+
+Meloetta @ Protector  
+Ability: Serene Grace  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Frost Breath  
+- Echoed Voice  
+- Screech  
+- Recover  
+
+Tapu Koko @ Light Ball  
+Ability: lightningforce  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Naive Nature  
+- Bolt Strike  
+- Nature's Madness  
+- Brave Bird  
+- Volt Switch  
+
+Tapu Fini @ Bright Powder  
+Ability: mistyblessing  
+Shiny: Yes  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Nature's Madness  
+- Heart Swap  
+- Recover  
+- Withdraw  
+
+Calyrex-Ice @ Choice Scarf  
+Ability: Ice Scales  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Glacial Lance  
+- Zen Headbutt  
+- Close Combat  
+- Water Spout  
+
+Arceus-Ghost @ Spooky Plate  
+Ability: Multitype  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Double Team  
+- Calm Mind  
+- Recover  
+
+Necrozma-Dusk-Mane @ Metal Coat  
+Ability: Prism Armor  
+Shiny: Yes  
+EVs: 252 HP / 252 Def / 4 Spe  
+Impish Nature  
+- Sunsteel Strike  
+- Earthquake  
+- Stealth Rock  
+- Moonlight  
+
+
+=== [gen6ubers] Darkrai's Dolors ===
+
+Darkrai @ Dread Plate  
+Ability: midnightveil  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dark Pulse  
+- Focus Blast  
+- Venoshock  
+- Howl  
+
+Porygon-Z @ Dubious Disc  
+Ability: Mold Breaker  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- enigmacharge  
+- mysteryspeed  
+- Avalanche  
+- Waterfall  
+
+Arceus-Ghost @ Spooky Plate  
+Ability: Multitype  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Double Team  
+- Calm Mind  
+- Recover  
+
+Magearna @ Metal Coat  
+Ability: fairyshield  
+EVs: 252 HP / 252 Def / 4 SpA  
+Sassy Nature  
+- Flash Cannon  
+- Focus Blast  
+- Aromatic Mist  
+- Flip Turn  
+
+Tapu Fini @ Bright Powder  
+Ability: mistyblessing  
+Shiny: Yes  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Nature's Madness  
+- Stealth Rock  
+- Recover  
+- Withdraw  
+
+Eternatus @ Sweet Apple  
+Ability: spacepower  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Venoshock  
+- Dynamax Cannon  
+- Magma Storm  
+- Recover  
+
+
+=== [gen6ubers] Greninja's Revenge ===
+
+Greninja-Ash @ Choice Scarf  
+Ability: Tough Claws  
+Shiny: Yes  
+EVs: 252 Atk / 252 SpA  
+Naughty Nature  
+- Water Sport  
+- Power Trip  
+- Gunk Shot  
+- Flip Turn  
+
+Dialga @ Dawn Stone  
+Ability: Regenerator  
+EVs: 104 HP / 152 Atk / 252 SpD  
+Gentle Nature  
+- Breaking Swipe  
+- Iron Head  
+- Fire Blast  
+- Shell Smash  
+
+Calyrex-Shadow @ Water Stone  
+Ability: Power Spot  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Hasty Nature  
+IVs: 0 Atk  
+- Psyshock  
+- Astral Barrage  
+- Hyper Beam  
+- Parting Shot  
+
+Tapu Koko @ Light Ball  
+Ability: lightningforce  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Naive Nature  
+- Bolt Strike  
+- Nature's Madness  
+- Brave Bird  
+- Volt Switch  
+
+Lilligant @ Flower Sweet  
+Ability: flowershield  
+EVs: 252 HP / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Apple Acid  
+- Giga Drain  
+- Teeter Dance  
+- Recover  
+
+Magearna-Original @ Metal Coat  
+Ability: Soul-Heart  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Sassy Nature  
+- Meteor Mash  
+- Focus Blast  
+- Aromatic Mist  
+- Flip Turn  
+
+
+=== [gen6ubers] Mewtwo's Domination ===
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Naive Nature  
+- Stored Power  
+- Aura Sphere  
+- Fire Blast  
+- Brutal Swing  
+
+Tapu Fini @ Bright Powder  
+Ability: mistyblessing  
+Shiny: Yes  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Nature's Madness  
+- Defog  
+- Recover  
+- Withdraw  
+
+Magearna-Original @ Metal Coat  
+Ability: Soul-Heart  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Sassy Nature  
+- Meteor Mash  
+- Stealth Rock  
+- Aromatic Mist  
+- Flip Turn  
+
+Landorus-Therian (M) @ Assault Vest  
+Ability: inveigle  
+EVs: 4 HP / 252 Atk / 252 SpD  
+Sassy Nature  
+- Earthquake  
+- Brutal Swing  
+- expressheal  
+- U-turn  
+
+Calyrex-Shadow @ Fire Stone  
+Ability: Power Spot  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Hasty Nature  
+IVs: 0 Atk  
+- Psyshock  
+- Astral Barrage  
+- Hyper Beam  
+- Parting Shot  
+
+Gallade @ Galladite  
+Ability: Long Reach  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Zen Headbutt  
+- Close Combat  
+- Shadow Sneak  
+- Low Sweep  
+
+
+=== [gen6ubers] Phione's Second Chance ===
+
+Phione @ Sea Incense  
+Ability: Drizzle  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Surf  
+- Focus Blast  
+- Sludge Wave  
+- Nasty Plot  
+
+Infernape (M) @ Energy Powder  
+Ability: Protean  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Flare Blitz  
+- Earthquake  
+- Gunk Shot  
+- Double Slap  
+
+Magearna @ Metal Coat  
+Ability: fairyshield  
+EVs: 252 HP / 252 Def / 4 SpA  
+Sassy Nature  
+- Flash Cannon  
+- Focus Blast  
+- Aromatic Mist  
+- Flip Turn  
+
+Landorus-Therian (M) @ White Herb  
+Ability: inveigle  
+EVs: 4 HP / 252 Atk / 252 SpD  
+Sassy Nature  
+- Earthquake  
+- Brutal Swing  
+- expressheal  
+- U-turn  
+
+Mew @ Energy Powder  
+Ability: Protean  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- royalpunishment  
+- royalinversion  
+- royalsacrifice  
+- Gunk Shot  
+
+Tapu Koko @ Light Ball  
+Ability: lightningforce  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Naive Nature  
+- Bolt Strike  
+- Nature's Madness  
+- Brave Bird  
+- Volt Switch  
+
+
+=== [gen6ubers] Registeel's Always Viable ===
+
+Registeel @ Sweet Apple  
+Ability: doubledown  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Sassy Nature  
+- Stealth Rock  
+- regiball  
+- Rapid Spin  
+- U-turn  
+
+Meloetta @ Protector  
+Ability: Serene Grace  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Frost Breath  
+- Echoed Voice  
+- Screech  
+- Recover  
+
+Lucario (M) @ Lucarionite  
+Ability: speedtouch  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Close Combat  
+- auradrain  
+- Bullet Punch  
+- Dragon Dance  
+
+Calyrex-Shadow @ Choice Scarf  
+Ability: Power Spot  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Hasty Nature  
+IVs: 0 Atk  
+- Psyshock  
+- Astral Barrage  
+- Trick  
+- Parting Shot  
+
+Tapu Fini @ Bright Powder  
+Ability: mistyblessing  
+Shiny: Yes  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Nature's Madness  
+- Stealth Rock  
+- Recover  
+- Withdraw  
+
+Eternatus @ Black Sludge  
+Ability: spacepower  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Venoshock  
+- Dynamax Cannon  
+- Magma Storm  
+- Autotomize  
+
+
+=== [gen6ubers] Mewtwo's Psychic Fire ===
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Naive Nature  
+- psychofire  
+- Aurora Beam  
+- Poison Jab  
+- Brutal Swing  
+
+Meloetta @ Protector  
+Ability: Serene Grace  
+Shiny: Yes  
+EVs: 4 HP / 252 Def / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Echoed Voice  
+- Frost Breath  
+- Screech  
+- Recover  
+
+Tapu Fini @ Bright Powder  
+Ability: mistyblessing  
+Shiny: Yes  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Nature's Madness  
+- Stealth Rock  
+- Recover  
+- Withdraw  
+
+Palkia @ Choice Scarf  
+Ability: dracolate  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+- royalsubmersion  
+- Boomburst  
+- Thunder  
+- Flip Turn  
+
+Gallade @ Galladite  
+Ability: Long Reach  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Zen Headbutt  
+- Close Combat  
+- Shadow Sneak  
+- Low Sweep  
+
+Landorus-Therian (M) @ White Herb  
+Ability: inveigle  
+EVs: 4 HP / 252 Atk / 252 SpD  
+Sassy Nature  
+- Earthquake  
+- Brutal Swing  
+- expressheal  
+- U-turn  
+
+
+=== [gen6ubers] サトシのゲッコウガ ===
+
+Greninja-Ash @ Sea Incense  
+Ability: Tough Claws  
+Shiny: Yes  
+EVs: 252 Atk / 200 SpA / 56 Spe  
+Naive Nature  
+- waterbreak  
+- Power Trip  
+- Water Sport  
+- Blizzard  
+
+Phione @ Choice Scarf  
+Ability: Drizzle  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Surf  
+- Grass Knot  
+- Aurora Beam  
+- U-turn  
+
+Tapu Koko @ Light Ball  
+Ability: lightningforce  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Naive Nature  
+- Bolt Strike  
+- Nature's Madness  
+- Brave Bird  
+- Volt Switch  
+
+Tapu Fini @ Bright Powder  
+Ability: mistyblessing  
+Shiny: Yes  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Nature's Madness  
+- Stealth Rock  
+- Recover  
+- Withdraw  
+
+Dialga @ Dawn Stone  
+Ability: Regenerator  
+EVs: 4 HP / 252 Atk / 252 SpD  
+Lonely Nature  
+- Breaking Swipe  
+- Iron Head  
+- Draco Meteor  
+- Shell Smash  
+
+Meloetta @ Protector  
+Ability: Serene Grace  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hyper Voice  
+- Echoed Voice  
+- Screech  
+- Recover  
+
+
+=== [gen6ubers] Second Chances ===
+
+Mewtwo @ Adrenaline Orb  
+Ability: psychicpower  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Naive Nature  
+- Stored Power  
+- Focus Blast  
+- Fire Blast  
+- Brutal Swing  
+
+Zygarde @ White Herb  
+Ability: Power Construct  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Land's Wrath  
+- Stone Edge  
+- Cross Poison  
+- Dragon Dance  
+
+Meloetta @ Protector  
+Ability: Serene Grace  
+Shiny: Yes  
+EVs: 4 HP / 252 Def / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Echoed Voice  
+- Frost Breath  
+- Screech  
+- Recover  
+
+Eternatus @ Black Sludge  
+Ability: spacepower  
+EVs: 4 HP / 252 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Venoshock  
+- Dynamax Cannon  
+- Magma Storm  
+- Recover  
+
+Porygon-Z @ Dubious Disc  
+Ability: Mold Breaker  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- enigmacharge  
+- mysteryspeed  
+- Avalanche  
+- Waterfall  
+
+Ho-Oh @ Sweet Apple  
+Ability: Magic Guard  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Careful Nature  
+- Sacred Fire  
+- flameswitch  
+- Stealth Rock  
+- Aromatic Mist  
+
+
+=== [gen6ubers] Lunala's Reverie ===
+
+Lunala @ Dark Gem  
+Ability: Shadow Shield  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+- psychicwind  
+- Moongeist Beam  
+- Night Daze  
+- Grass Whistle  
+
+Keldeo-Resolute @ Life Orb  
+Ability: perfectsword  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Sacred Sword  
+- Secret Sword  
+- Flip Turn  
+- Aqua Jet  
+
+Genesect @ Sweet Apple  
+Ability: doublelayer  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Naive Nature  
+- Gunk Shot  
+- Echoed Voice  
+- U-turn  
+- Shell Smash  
+
+Meloetta @ Protector  
+Ability: Serene Grace  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Frost Breath  
+- Echoed Voice  
+- Screech  
+- Recover  
+
+Lilligant @ Flower Sweet  
+Ability: flowershield  
+Shiny: Yes  
+EVs: 252 HP / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Apple Acid  
+- Giga Drain  
+- Teeter Dance  
+- Recover  
+
+Landorus-Therian (M) @ White Herb  
+Ability: inveigle  
+EVs: 4 HP / 252 Atk / 252 SpD  
+Sassy Nature  
+- Earthquake  
+- Brutal Swing  
+- expressheal  
+- U-turn  
+
+
