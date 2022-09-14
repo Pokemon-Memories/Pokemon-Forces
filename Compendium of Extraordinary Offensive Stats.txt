@@ -1,6 +1,6 @@
 Offensive Stats over 300
 
-Attack (60 Total)
+Attack (61 Total)
 
 Mega Mewtwo X: 450
 Deoxys Attack: 405
@@ -37,6 +37,7 @@ Incineroar: 305
 Mega Aerodactyl: 305
 Genesect: 305
 Tyrantrum: 301
+Darmanitan-Galar: 300
 Arceus: 300
 Arceus-Bug: 300
 Arceus-Dark: 300
@@ -61,7 +62,7 @@ Mega Blaziken: 300
 Mega Scizor: 300
 Mega Aggron: 300
 
-Special Attack (47 Total)
+Special Attack (49 Total)
 
 Mega Mewtwo Y: 450
 Deoxys Attack: 405
@@ -85,12 +86,14 @@ Bellsprout: 315
 Mega Diancie: 315
 Keldeo Resolute: 310
 Necrozma Dawn Wings: 307
+Naganadel: 307
 Primarina: 306
 Mega Gengar: 305
 Eternal Floette: 305
 Eternatus: 305
 Genesect: 305
 Mega Lucario: 303
+Darmanitan-Galar-Zen: 300
 Arceus: 300
 Arceus-Bug: 300
 Arceus-Dark: 300
