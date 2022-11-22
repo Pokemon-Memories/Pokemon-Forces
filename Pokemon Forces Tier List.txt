@@ -1,0 +1,608 @@
+Pokemon Forces Developer Tier List
+
+(149 Total)
+
+							S-Tier
+
+							Mewtwo
+					              [ Psychic ]
+			    (Hp: 170/Atk: 335/Def: 185/SpA: 338/SpD: 185/Spe: 187) BST: 1400
+					     Pressure/Unnerve/Psychic Power
+
+
+Description: Between its peerless offenses, blistering speed, and its perfectly distributed defenses; Mewtwo is an unparallaled force of mass destruction in this Meta. Whereas most Pokemon are biased toward specific sets, which serve as the primary cause for their exalted viability; Mewtwo is able to continuously adapt its sets on the fly, allowing it to always keep its opponents guessing. Its perfectly placed stats leave it with no major vulnerabilites, and its access to a nearly unlimited movepool, encompassing every Type in the game, makes it nigh uncounterable. Simply figuring out the opposing Mewtwo's set, is itself, a daunting undertaking, and actually managing to successfully faint it, is something that will usually only be possible after a very long struggle between both sides. Mewtwo's combination of attributes makes it a force to be reckoned with, and when paired with its dangerous unpredictability, powerful teammates, signature items, and phenomenal ability; This Genetic Masterpiece proves itself to be a powerful Pokemon that is second to none. We dreamed of creating the most powerful Pokemon, and we succeeded.
+
+
+							Kyogre
+						       [Water]
+			    (Hp: 160/Atk: 240/Def: 180/SpA: 320/SpD: 280/Spe: 160) BST: 1340
+					           Drizzle/Antipathy
+
+Description: Thanks to its fantastic Special Attack stat, amazing Typing, access to the powerful Water Spout, and its amazing Ability, Drizzle; Kyogre is a menace to fight against, and is one of the most dangerous Pokemon in the game. With Choice Scarf, and a set of Water Spout/Origin Pulse/Thunder/Ice Beam, Kyogre is capable of shredding through almost anything that isn't a dedicated resist, through the power of its high BP moves, and impressive coverage. Kyogre can also run Choice Specs to punish players that were expecting a Scarfed set, and hit the Tier even harder. Wave Incense sacrifices the speed of Scarf, and the power of Specs, but grants Kyogre incredible power with its Water-Type moves, without locking it out of the rest of its set. Finally, and best of all, is its Sea Incense set; With a set of Origin Pulse/Thunder/Rain Dance/Thunder Wave, Kyogre can not only outspeed all but the more obscure Pokemon due to the Sea Incense boost, but can exploit its deadly combination of Rain and Paralysis to potentially cripple, or even check its own dedicated answers, allowing it to wreak havoc with its powerful attacking moves. Its amazing ability to threaten the entire tier, whilst potentially enabling certain teams through its Rain setting utility, not only makes Kyogre one of the best Pokemon in the game, but far and away, the most centralizing.
+
+
+							Dialga
+						    [Steel/Dragon]
+			    (Hp: 230/Atk: 280/Def: 210/SpA: 280/SpD: 180/Spe: 160) BST: 1340
+					     Pressure/Telepathy/Regenerator
+
+
+Description: Dialga's massive defensive stats, stratospheric offenses, and excellent Type-Combination already make it a force to be reckoned with, however what truly sets it apart from the rest of its peers is access to the best Ability, and one of the best moves in the game--in Regenerator and Shell Smash respectively. Thanks to these two powerful resources, Dialga is capable of fulfilling a multitude of roles, from bulky tank, dedicated offense, hazard support, or even various hybrids of these sets--all while maintaining its Ability to perform excellently during games, and even potentially sweep the opponent. Dialga's ability to run nearly any kind of set--including frightening mixed sets, while synergizing with nearly every viable Item in the Tier--is unrivaled, and it is easily the most customizable Pokemon in the entire game. When building a Team, it is vital that players prepare an answer for this Master of Time, lest they find their ephemeral existence ground to dust.
+
+
+						     Calyrex-Shadow
+						     [Psychic/Ghost]
+			    (Hp: 180/Atk: 250/Def: 180/SpA: 350/SpD: 260/Spe: 180) BST: 1400
+					    Power Spot/Double-Layer/Antipathy
+
+
+Description: In addition to having a dangerous Psychic/Ghost Type-Combination; Calyrex-Shadow also possesses an incredible Speed Stat, and one of the highest Special Attack stats in the entire game. Because of the incredible power it possesses, particularly through its devastating Astral Barrage, and Psycho Boost, Calyrex often doesn't even need to hold a damage-boosting Item to deal massive amounts of damage, and will often place immense pressure on opposing Teams through its sheer presence alone. Calyrex also has access to its signature Elemental Stones, which grant it a x1.2 boost on all of its attacks, grants Hyper Beam perfect accuracy, and changes Hyper Beam's Type to match the type of the compatible stone it is holding. This grants Calyrex a high degree of unpredictability, and further allows it to potentially defeat Pokemon that would otherwise give it trouble, such as Yveltal. While Astral Barage will no longer boost Calyrex's Special Attack, if it has at least +1 in its Special Attack, already, it is still an incredibly potent Snowballing tool, especially when paired with its new Ability, Power Spot, which grants Calyrex's moves a 50% power boost, if it has been reduced to 1/4 or less of its Max HP. Calyrex is one of the best Offensive Utility, and Late-Game Cleaner Pokemon in the game, and players would do well to prepare themselves for this menace.
+
+
+
+						     Tier Assesments
+S-Tier: Reserved for the absolute most powerful Pokemon; These Pokemon can fit onto every Team and immediately improve the cluster's viability through its presence alone, having the potential not only to fortify already powerful Teams, but elevate to viability Teams, Pokemon, and strategies that would otherwise be suboptimal without them. There are few, if any downsides to selecting a Pokemon from this Tier, and it is crucial that opponents have answers to these threats if their Team is to gain any traction in the Meta. 
+
+A-Tier: Reserved for exemplary Pokemon that either fulfil a multitude of roles, or accomplish their specific roles with with peerless excellence. Pokemon in this Tier tend to have only minor weaknesses, all of which are almost completely compensated for by the immense utility provided for players' Teams. These are the Electrons that orbit the Nuclei of the Tier, and players will want to have at least one of these Pokemon on their Team if they hope to gain any traction in the Meta.
+
+B-Tier: Reserved for Pokemon that serve noticeable functions in the Meta, with varying degrees of success. Many of the Pokemon in this Tier have profound, or even rare strengths which cannot be found in the A-Tier proper, but possess glaring weaknesses that prevent them from gaining a spot in the aforementioned Tier themselves. Strategic play and additional support may be required to bring out these Pokemon's full potential, however when played optimally, they may be able to give Players the particular utility they'll need to gain traction in the Meta.
+
+C-Tier: Reserved for Pokemon that are capable of fulfilling certain roles with with a certain degree of success, but lack either the consistency or environment to fully capitalize on their positive attributes. These Pokemon are typically outclassed by the Pokemon in the Tiers above them due to either lacking a sufficient number of relevant strengths, or possessing too many exploitable weaknessness, however many of these Pokemon may be capable of rising to one of the higher Tiers, should either the meta change, or new sets end up being discovered within their current Meta. These Pokemon may require considerable skill to play, but may just provide the necessary resources to help players gain traction in the Meta.
+
+D-Tier: Reserved for Pokemon that are almost completely outclassed by the Pokemon in the Tiers above them, oftentimes due to a number of intrinsic factors, which may never be completely remedied even with new set discoveries or drastic Meta changes. Pokemon often merit this Tier, due to either insufficient stats, poor typing(s), insufficient movepools, or being completely outclassed in the few roles they do have by other, significantly more powerful Pokemon (some of which are even other variants of themselves). Researching these Pokemon may be helpful, should an opponent endeavor to use one of these Pokemon in a game, however well-designed Teams will likely have resources that can handle one, or even many of these Pokemon, regardless. As such, these Pokemon are not helpful for gaining any traction in the Meta.
+
+Unranked: Reserved for Pokemon that were experimented with during development, but failed to meet the Meta's standard to justify placement in a proper Tier; Since this game is primarily balanced around Ubers, it could be entirely possible for these Pokemon to be viable in lower Tiers, however in this Tier, these Pokemon fail to accomplish anything of value, and should realistically never be used if Players hope to gain any traction in the Meta. 
+
+S-Tier (4 Total)
+Note: Pokemon listed in the S-Tier are sorted by viability first; In the event of a tie, they are sorted alphabetically.
+
+S
+Mewtwo
+Kyogre
+Dialga
+Calyrex-Shadow
+
+A-Tier (33 Total)
+
+A+
+Palkia
+Ho-Oh
+Xerneas
+Meloetta
+Calyrex-Ice
+
+A
+Mew 
+Arceus 
+Torterra
+Groudon
+Tapu Fini
+Landorus-Therian
+Sawsbuck
+Arceus-Flying
+Gallade-Mega
+Giratina
+Thundurus
+Thundurus-Therian
+Meloetta-Pirouette
+Lucario-Mega
+Necrozma-Dusk-Mane
+
+A-
+Pikachu-Alola
+Gengar-Mega
+Eternatus
+Tapu Koko
+Kartana
+Porygon-Z
+Pikachu-Original
+Lilligant
+Salamence-Mega
+Tornadus
+Empoleon
+Arceus-Fire
+Marshadow
+
+
+B-Tier (61 Total)
+Note: All of the Pokemon listed in the B-Tier and below are ordered alphabetically.
+
+B+
+Arceus-Ghost
+Arceus-Water
+Celebi
+Deoxys-Speed
+Gardevoir
+Gengar
+Giratina-Origin
+Infernape
+Keldeo
+Kyurem-Black
+Kyurem-White
+Magearna
+Magearna-Original
+Manaphy
+Phione
+Rapidash-Galar
+Rayquaza
+Suicune
+Swampert
+Ultra Necrozma
+Urshifu-R
+Vaporeon
+Victreebel
+Weavile
+Yveltal
+Zekrom
+Zygarde-Complete
+Zygarde
+
+B
+Abomasnow
+Arceus-Bug
+Arceus-Dark
+Arceus-Ground
+Arctozolt
+Bellsprout
+Blissey
+Cryogonal
+Darkrai
+Darmanitan-Galar
+Darmanitan-Galar-Zen
+Deoxys-Attack
+Entei
+Landorus-Incarnate
+Lunala
+Mesprit
+Necrozma-Dawn-Wings
+Regigigas
+Registeel
+Reshiram
+Starmie
+Solgaleo
+Urshifu-S
+Victini
+Zapdos-Galar
+
+B-
+Arceus-Fairy
+Darmanitan
+Decidueye
+Genesect
+Naganadel
+Regidrago
+Snorlax
+Zacian-Crowned
+
+
+C-Tier (23 Total)
+
+C+
+Arceus-Poison
+Articuno-Galar
+Lugia
+Mega Charizard X
+Excadrill
+Jirachi
+Pheromosa
+Rotom-Wash
+Rotom-Fan
+Rotom-Frost
+Sableye-Mega
+
+C
+Dracozolt
+Meowth
+Tapu Lele
+Zamazenta-Crowned
+Zapdos
+
+C-
+Articuno
+Gallade
+Dragapult
+Greninja-Ash
+Moltres-Galar
+Rapidash
+Sableye
+
+
+D-Tier (19 Total)
+
+D+
+Cobalion
+Cresselia
+Gigalith
+Golurk
+Heatran
+Latios-Mega
+Maractus
+Milotic
+Skarmory
+Sunflora
+Tyranitar
+
+D
+Dracovish
+Shaymin
+
+D-
+Blaziken
+Chandelure
+Porygon2
+Terrakion
+Tyrantrum
+Volcanion
+
+
+Unranked (9 Total)
+
+UR
+Carracosta
+Emolga
+Ferrothorn
+Flareon
+Latios
+Mienshao
+Salamence
+Zacian
+Zamazenta
+
+					    Kyogre-Check (Sponsors) Tier List
+Summary: Measures how effectively certain Pokemon can handle Kyogre, while still providing valuable utility to the rest of the Team. Absolute checks may therefore be ranked lower than weaker checks, if they fail to provide significant utility to the Team beyond singularly checking Kyogre.
+
+S-Class: Reserved for Pokemon that can not only consistently check Kyogre, but are capable of excelling in the Meta and substantially benefitting Teams even if Kyogre is absent. For these Pokemon, checking Kyogre is only one of many things that they can do, and they would still serve as indispensible members of players' Teams, even without a Kyogre to manage.
+
+A-Class: Reserved for Pokemon that can most efficently check Kyogre whilst still providing utility to the player's Team; These Pokemon's viability is heightened by their matchup against Kyogre, but isn't contigent upon it.
+
+B-Class: Pokemon in this class tend to do excellent jobs at checking Kyogre in a vacuum, but possess other significant weaknesses that create a significant opportunity cost when using them for this role. Pokemon can also end up in this Tier if they have otherwise favorable matchups against the rest of the Tier, but only check Kyogre under certain circumstances.
+
+C-Class: Pokemon in this Tier can check, and even counter some of Kyogre's moves, but otherwise tend to have inconsistent or unreliable matchups against the rest of the Tier.
+
+S-Class
+Palkia
+Swampert
+
+A-Class
+Lilligant
+Suicune
+Tapu Fini
+
+B-Class
+Eternatus (Utility Umbrella)
+Victreebel
+Maractus
+Kyurem-Black
+Kyurem-White
+Sunflora
+
+C-Class
+Lugia
+Shaymin
+Milotic
+
+
+						Dark Triad Tier List
+Summary: The Dark Triad is a name designed to refer to the Trio of the apparent three best setup sweepers in the game: Dialga, Groudon, and Zekrom. These Pokemon are incredibly powerful, especially with the right Items and Abilities, and practically necessitate at least one dedicated or semi-dedicated answer to them (usually Landorus-Therian).
+
+Members
+1. Dialga
+Common Items
+- Dawn Stone
+- Sweet Apple
+- Weakness Policy
+- Metal Coat
+- Protector
+- Chople Berry
+- Shuca Berry
+
+Common Moves
+Constant = Shell Smash
+- Breaking Swipe
+- Dragon Pulse
+- Iron Head
+- Draco Meteor
+- Flash Cannon
+- Stealth Rock
+- Aura Sphere
+- Fire Blast
+
+Strenghts
+- Solid Bulk
+- Massive Damage Output, once boosted
+- Multiple chances to safely interact, due to Regenerator
+- Dawn Stone +2 Draco Meteor is one of the strongest moves in the game
+- Decent coverage
+- Can viably run Mixed Sets
+- Its Typing, combined with its bulk, allows it to check Kyogre, Xerneas, and Eternatus, under certain circumstances
+
+Weaknesses
+- Middling Speed-Tier, coupled with an exploitable Steel-Typing
+- Insignificant Damage Output when unboosted
+- Its Dragon moves have halved power under Hail, effectively cutting its power in half
+- Cannot switch out for 3 turns after using Shell Smash; All boosts reset after 3 turns (Cannot escape with Shed Shell)
+- Extremely vulnerable to Low Sweep, especially from Gallade, Urshifu, and certain Mewtwo sets
+- Almost unwinnable matchup against Suicune, and Urshifu-R (and to a lesser extent, Urshifu-S).
+
+Preferred Ability
+Regenerator
+
+2. Zekrom
+Common Items
+- Light Ball
+- Life Orb
+- Ice Gem
+- Dawn Stone
+
+Common Moves
+Constant = Dragon Dance
+- Bolt Strike
+- Royal Rampage
+- Flying Deluge
+- Slush Switch
+- Ice Punch
+- Blizzard
+- Fusion Bolt
+
+Strengths
+- Decent Offensive Typing
+- Bolt Strike deals massive damage, even when unboosted (provided it is holding a Light Ball)
+- Fantastic Speed
+- Incredible Physical Bulk
+- Teravolt allows Zekrom to bypass abilities, and force its way past Torterra under certain circumstances
+- Has access to Pivoting moves
+- Royal Rampage allows Zekrom to OHKO Dialga, and ignore Protector, without sacrificing its STAB, or a move slot
+- Flying Deluge allows it to hit Lando-T for x4 damage, making the matchup winnable
+- Double-Layer, when paired with a Utility Umbrella, allows Zekrom to check most Kyogre sets, including its dangerous Sea Incense Thunder Wave sets
+
+Weaknesses
+- Limited Movepool, with the moves it does have either being unviable or redundant.
+- Predictable Sets
+- Awkward Defensive Typing
+- Inconsistent Offensive Typing
+- Needs Light Ball to be a significant offensive threat
+- Ground Weakness, meaning it cannot properly exploit its massive Physical Bulk as well as it would like
+
+Preferred Ability
+Teravolt
+
+3. Groudon
+Common Items
+- Full Incense
+- Light Ball
+- Gold Bottle Cap
+- White Herb
+- Yache Berry
+
+Common Moves
+Constant = Dragon Dance
+- Precipice Blades
+- Flare Blitz
+- Thunder Punch
+- Swords Dance
+- Mineral Cannon
+
+Preferred Ability
+Drought
+
+Strengths
+- Phenomenal Physical Bulk, being one of the highest in the game
+- Decent Special Bulk, granting it above average bulk overall
+- Amazing Offensive Typing
+- Highest Basal Damage Output overall, out of all the members of the Dark Triad
+- Instant access to Full Incense and Gold Bottle Cap
+- Powerful exploiter of Flare Blitz, due to its massive overall bulk
+- Immunity to Light Ball's Paralysis; Allowing it to use it for Thunder Punch
+- Weather Support; Drought can enable Sun Teams, while frustrating other forms of Weather
+
+Weaknesses
+- Middling Speed Tier
+- Highly exploitable Defensive Typing, often causing it to be a defensive liability for Teams
+- Awkward Typing, given its ability; Does not synergize with the very Sun Teams it helps enable
+- Poor Synergy with Teams, in general
+- Massive Bulk is hindered by no relevant resistances
+- Because of this, its bulk mainly just serves as a vehicle to help it set up, making it predictable
+- Drought strengthens Mewtwo's Psycho Fire, allowing it to deal massive damage to it, even without dedicated coverage
+
+
+							Mewtwo
+1. Mewtwo
+Common Items
+- Adrenaline Orb
+- Berserk Gene (AG)
+- Sweet Apple
+- Twisted Spoon
+- Odd Incense
+
+Common Moves
+- Psychic Storm
+- Psycho Fire
+- Stored Power
+- Expanding Force
+- Aurora Beam
+- Aura Sphere
+- Dark Pulse
+- Brutal Swing
+- Heat Wave
+- Poison Jab
+- Nasty Plot
+
+Strengths
+- One of the highest Special Attack stats in the game
+- Fastest non-Scarfed, commonly used Pokemon in the game.
+- Notable outspeeds include: Caly-S, Tapu Koko, Arceus, and +1 Jolly Necrozma-Dusk-Mane.
+- One of the largest learnsets in the game; Has a move for every Type
+- General unpredictability, with multiple viable sets
+- Extremely spammable STABs; Can sometimes run two, or even four Psychic moves, viably.
+- Particularly, Psychic Storm, and Psycho Fire, grant it a Super-Effective STAB on Water, and Steel, respectively.
+- Decent Bulk, which grants it greater survivability compared to Pokemon with comparable damage outputs
+- Stored Power rivals the power of Scarf Palkia's Boomburst, and exceeds it with an Adrenaline Orb
+- A "charged" Expanding Force is naturally stronger than Palkia's Boomburst, with 240 BP, vs Dracolate Boomburst's 237.
+- Incredible versatility, with arguably the greatest level of variability, behind Dialga.
+
+Weaknesses
+- Mediocre, if passible, bulk
+- Irrelevant Defensive Typing, which often leaves it vulnerable to Priority moves
+- Particularly, a notable vulnerability to Shadow Sneak, which Caly-S, Mega Gallade, and especially Marshadow, exploit.
+- Often dependent on coverage moves to reach full effectiveness, which is only partly compensated by Psychic Power.
+- Difficult to use; Applying the wrong coverage moves can result in Mewtwo having "useless" moves during a match
+- Offers little defensive synergy, often leading to scenarios where Mewtwo becomes a Wallflower.
+- Due to its incredible viability; Most Teams will have at least one specific, or holistic means of facing Mewtwo
+- This can in turn, result in Mewtwo's Speed being "overwritten" by Scarfers, or its power neutralized by Walls
+- Furthermore, due to threats, such as Meloetta, and opposing Mewtwo; An anti-Psychic coverage move is almost mandatory
+- These restrictions result in Mewtwo's otherwise unlimited variability being underutilized in a practical environment
+
+
+						Mewtwo Microanalysis
+
+Adrenaline Orb
+Mechanics: Boosts the power of Mewtwo's moves
+Usage Tips: Best for All-Out Attacking sets, as it is a strictly offensive Item; Likely Mewtwo's best offensive Item
+Pros: Grants a Power Boost comparable to that of a Life Orb, without the Recoil
+Cons: Indirectly limits Mewtwo to purely offensive sets, or else, causes it to play cautiously, to preserve its HP-dependent moves, such as Stored Power, and Poltergeist
+
+Berserk Gene
+Mechanics: Mewtwo is perpetually burned, however its Atk is Raised by 2 stages upon switching in.
+Usage Tips: Rain cures all burns, and prevents burns from happening; Shatter Splash under Rain can OHKO Meloetta
+Pros: Extremely high reward if used properly; Enables Mewtwo to use its more obscure Physical Moves
+Cons: Requires significant Team Support and setup to execute properly; Without it, Mewtwo becomes effectively itemless
+
+Sweet Apple
+Mechanics: Heals Pokemon by a certain amount, upon switching out
+Usage Tips: Mewtwo's riskier moves, such as Stored Power, and Poltergeist, are particularly resourceful with this Item
+Pros: Significantly improves Mewtwo's longevity; Enables Mewtwo to play more aggressively, and wear down bad Matchups
+Cons: Sacrifices the Power Boost of Adrenaline Orb, which in turn may force it into using redundant, or otherwise riskier moves to achieve the desired damage output.
+
+Twisted Spoon
+Mechanics: Raises Mewtwo's Spe by 1 stage, upon using a Status-Move; Resets all stats after 3 turns. Single Use.
+Usage Tips: In addition to this Special Mechanic, Twisted Spoon maintains its original property of boosting the Base Power of all Psychic-Type moves by x1.2; Best used alongside Nasty Plot, as a late-game cleaning tool.
+Pros: Enables Mewtwo to overcome Scarfers, whilst allowing it to use Nasty Plot, while preserving its momentum
+Cons: Limited Power Boost outside of specific function; Immediately renders Mewtwo Itemless, upon successfully activating this Item's effects; Potentially vulnerable to being timed out
+
+Odd Incense
+Mechanics: Doubles the Base-Power of Psychic-Type moves, if the Pokemon is at or below 1/4 Max HP
+
+Usage: Meloetta's Screech, and Technician Marshadow's Shadow Sneak can proc this, if Mewtwo has at least >80% HP; Out of all of Mewtwo's sets, this one is the most special, as using it successfully requires a massive overhaul to the way Mewtwo is generally used, and is the one instance where running all Psychic-Type attacking Moves is possible, and even optimal.
+
+Nasty Plot is a mandatory move to bring out Mewtwo's full power. Without it, it will miss a significant number of meaningful benchmarks that are responsible for this set's usefulness in the first place. Keep in mind that, as the x2 Base Power boost operates independently from the stat stage boosts, Mewtwo's overall damage output is increased by four times, with an active Odd Incense, and Nasty Plot, rather than the three times, that one would normally gain by using a +2 Boosting move twice.
+
+Due to its Psychic-Typing, and massive Special Defense: Meloetta is PsySpam Mewtwo's greatest enemy. Mewtwo, as a whole, can potentially overcome Meloetta with Brutal Swing, or Dark Pulse, however running either of these moves as OddTwo is discouraged, as they will ultimately sacrifice power in the long run; Dark Pulse and Brutal Swing both have 135 BP for Mewtwo, when factoring a Super-Effective Hit (x2), and then the Psychic Power Super-Effective bonus (x1.3), the base power becomes 351 BP, at its best. Conversely, Psystrike (150 BP), when multiplied by Mewtwo's STAB (x1.5), and the Odd Incense boost (x2), becomes a Base 450 move on average, exceeding the power of its Super-Effective Dark-Type moves by nearly 100 points.
+
+While Psystrike is generally a mediocre move for Mewtwo in every other circumstance; With Odd Incense, specifically, it is not only viable, but is far and away, Mewtwo's most important move, next to Nasty Plot itself. This is the only Psychic-Type move Mewtwo has, that will consistently OHKO Meloetta, once Mewtwo is boosted and procced, as its special property to target Meloetta's significantly flimsier Physical Defense, alongside the tremendous Power Boost gained from the Odd Incense boost, allows it to blast Meloetta into oblivion, even through its resistance. This move is so powerful, in fact, that it can even OHKO Flower Sweet Torterra, from Full Hp, alongside other surprising Pokemon, such as Dialga, Giratina, and even Calyrex-Shadow, who is otherwise capable of surviving certain moves from a boosted and procced Mewtwo
+
+
+Also mandatory, is Psycho Darts. Without this move, Mewtwo is left vulnerable to the swarms of Priority-users, and Scarfers potentially waiting in the wings, that could potentially put an end to its run, before it even began. Although Psycho Darts is effectively unviable on standard Mewtwo sets, and could even be considered as outclassed by its other priority move, Low Sweep; Thanks to the effective quadruple boost gained by the combination of Odd Incense and Nasty Plot, even Psycho Darts is capable of landing OHKOs against foes, most notably, against Kyogre, and Palkia, two Pokemon that would be a massive nuisance for Mewtwo, otherwise. Thanks to Mewtwo's overwhelming speed, its Psycho Darts will likely be capable of outspeeding any +1 move in the Tier (most notably, opposing Shadow Sneak), which is nothing short of necessary when using such a fragile set.
+
+Finally, the last moveslot is customizable; Psychic Storm allows Mewtwo to pressure Water-Types even before it sets up, while Psycho Fire allows Mewtwo to shred Dialga, and Double-Layer Empoleon--to shreds. Aura Sphere can also be run, if the opponent is feeling apprehensive about wielding those many concurrent Psychic-Type moves, however for those that don't mind the limited Typing, and want even more power; Expanding Force can be used for extra power.
+
+Pros: Easily the set with the highest overall Damage Output; Allows it to beat opposing priority with its own; Doesn't depend on coverage as a primary means to deal game-deciding Damage; Can potentially sweep Teams.
+
+Cons: Requires extensive knowledge on the Metagame, so as to know what will proc, and what will just be unnecessary Damage, that potentially causes other moves that would have procced, to simply K.O. Mewtwo, instead; Most limited coverage out of all of Mewtwo's sets; Mewtwo needs Psycho Darts to justify this set's use over another, more consistent one, yet it also needs Psystrike to improve its Matchup against Meloetta, and both Calyrexs. This leaves one final slot to handle the rest of Odd Incense Mewtwo's Bad MUs, such as Yveltal, Empoleon, a healthy Caly-Ice, and most concerning of all, Necrozma-Dusk-Mane, which tanks both Psystrike and Psycho Darts, and generally gives this set a hard time.
+
+
+Eternatus Set
+Eternatus @ Prism Scale  
+Ability: spacepower  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Eternabeam  
+- Magma Storm  
+- Autotomize
+Description: Draco Meteor, being a Heavy-Move (lowers a Pokemon's attacking stat by at least 2 stages), triggers Prism Scale, which raises the user's SpA by 3 stages upon using one of these moves, which allows Eternatus to set up with Autotomize (now raises Pokemon's speed by 4 stages) to outspeed the entire Tier, then proceed to unleash Draco Meteor on an opponent, to set up for a potential Eternabeam sweep. Magma Storm is a contingency move, to ensure that Eternatus can hit stray Steels that my be capable of resisting its other moves.
+
+
+Development Information ✓ ✔ ❌
+✔️ - Pokemon that was noticeably aided by the changes
+❌ - Pokemon that wasn't significantly impacted by the changes
+Buffed Pokemon (October 10/8/22)
+Aegislash
+Weavile ✔️
+Dusknoir
+Gengar ❌
+Infernape ✔️
+Kyurem-Black
+Kyurem-White
+Calyrex-Ice ✔️
+
+Buffed Pokemon (November 11/5/22 - 11/8/22)
+Sawsbuck (Buffed base form; Homogenized stat changes among Seasonal Forms; Added stronger coverage options) ✔️
+Samurott
+Drapion
+Togekiss
+Roserade
+Abomasnow (Implemented) ✔️
+Gengar ✔️
+Vanilluxe
+Regice
+Arctozolt
+Mienshao
+Xerneas (Special Defense: 218 -> 238) ✔️
+Yveltal
+Suicune: (Ability: Water Tunnel -> Snow Warning)
+Urshifu-S: (Implemented)
+Urshifu-R (Implemented)
+Chandelure (Candle Trap - Traps Ground-Types; Provides use with Air Balloon and Taunt to remove common Torterra sets)
+Eternatus (Hazard setting and clearing moves added)
+Lilligant (Hazard setting and clearing moves added)
+Rapidash-Galar (Pastel Veil now neutralizes Brutal Swing)
+Zacian (Intrepid Sword moves now ignore Barricade)
+Necrozma-Dawn-Wings (Light Inversion - Exchanges Dark and Ghost weakness for Fairy and Dragon weaknesses)
+Ho-Oh (Sacred Fire now hits Dragon-Types neutrally; Improving the matchup against Dialga)
+
+Nerfed Pokemon (November 11/7/22 - 11/8/22)
+Mewtwo (Adrenaline Orb Boost: x1.3 -> x1.2; Pastel Veil buffs; Xerneas SpD buff; Light Inversion implemented)
+Dialga (Shell Smash now prevents user from switching out for 3 turns after its use, and resets all stat stages upon the turns completing; Shed Shell will not free the user from these effects; Draco Meteor BP: 180 -> 170).
+Tapu Fini (no longer can escape Water Trap)
+Torterra (x0.25 damage taken on Fairy-Type moves removed; Zacian buffs; Candle Trap implemented)
+Tapu Koko (x1.3 offensive stats when using Fairy-Type moves removed; Light Ball general BP Boost: x1.3 -> x1.2)
+
+Nerfed Pokemon (November 11/10/22 - 11/11/22)
+Tapu Fini (Def: 195 -> 175; Moonlight and Recover replaced with Milk Drink)
+Tapu Koko (Atk: 295 -> 285; SpA: 295 -> 285)
+Tapu Lele (SpD: 255 -> 235)
+Sawsbuck (Seasonal Atk/SpA: 335 -> 295; All other switching moves unlearned, replaced with Fall Back)
+Meloetta (Serene Grace no longer reduces Brutal Swing damage to x0.67)
+Zacian (Boosted gained by Intrepid Sword disappears upon successfully landing an attack)
+Meloetta (Signature Mechanic boost on Normal-Type moves: x1.5 -> x1.3)
+Torterra (Sparkling Ice added - 80 BP Special Ice Move that ignores abilities)
+Xerneas (Geomancy limited to three turns after activation)
+Meloetta (Mewtwo can now learn Dark Pulse)
+Palkia (Boomburst Base Power: 190 -> 180)
+
+Buffed Pokemon (November 11/10/22 - 11/11/22)
+Empoleon (Added Moves: Water Break, Compact Steam; Signature Move: Conqueror's Steel)
+Latios (SpA: 240 -> 280)
+Xerneas (Added Move: Sparkling Ice)
+Giratina (Shadow Steal Damage: 1/4 user's Max Hp -> 1/3)
+Lugia (Aqua Force reworked; Makes Lugia into a Water/Flying Type)
+Arceus (Heaven Dance; Sharply Raises Atk, and lasts for 3 turns after move is used, before stats reset; Extreme Speed now has a Base Power of 100 when used by Arceus)
+Mewtwo (Can now learn Dark Pulse)
+
+Nerfed Pokemon (November 11/12/22)
+Torterra (Def: 274 -> 254; SpA: 1 -> 21)
+
+Buffed Pokemon (November 11/13/22)
+Pikachu
+- Universally Buffed to commemorate Ash's/Satoshi's victory on November 10, 22.
+List of Current Forms
+Pikachu
+Pikachu-Sinnoh
+Pikachu-Original
+Pikachu-Alola
+Congratulations on winning, Ash!
+
+Buffed Pokemon (November 11/14/22 - 11/21/22)
+Mewtwo (Twisted Spoon Effect: Restores 1/8 of Mewtwo's Hp -> Raises Mewtwo's Spe by 1 stage upon using a Status-Move)
+Mewtwo (Psychic Power now has a "Permaburst" effect, causing all Burst-Moves to always be at full power)
+Mega Mewtwo X (Psycho Force given the Permaburst Effect; Psycho Blitz Special BP: 200 -> 240)
+Mega Mewtwo Y (Psychic Assault given the Permaburst Effect)
+Ludicolo (Happy Dance implemented; Has No Guard Effect, and restores 1/10 of Pokemon's Max Hp upon switching out)
+Arceus (Normal-Type Moves no longer resisted by Grass-Types)
+
+Nerfed Pokemon (November 11/21/22 - 11/22/22)
+Groudon (Dragon Dance unlearned)
+Sawsbuck (Now must be holding a Float Stone for its Transformations to activate; Seasonal Base Speed: 200 -> 184)
+Mewtwo (Twisted Spoon Boost Duration: 4 Turns -> 3 Turns).
+Kyogre (Utility Umbrella now protects Pokemon from Paralysis Damage, and Full Paralysis)
